@@ -1,0 +1,7 @@
+# ignore everything else
+*
+
+# except for these files
+!markdown_generate.py
+!music_list.md
+!.gitignore
