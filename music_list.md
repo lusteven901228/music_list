@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/07/10 02:43
+###### updated on 2024/08/04 07:16
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -1778,11 +1778,6 @@
     - 04-Te Amo.flac
     - 05-Charging (Featuring Junny).flac
     - 06-Rain.flac
-- MusicBee
-  - Artist Pictures
-    - Thumb
-  - Playlists
-  - Podcasts
 - Nayeon
   - IM NAYEON
     - 01-POP!.flac
@@ -2235,6 +2230,16 @@
     - 02-ホントだよ.flac
     - 03-コバルト (Instrumental).flac
     - 04-ホントだよ (Instrumental).flac
+  - はなれない距離
+    - Disc 1 - 01 - はなれない距離.flac
+    - Disc 1 - 02 - Etoile.flac
+    - Disc 1 - 03 - はなれない距離 -Instrumental-.flac
+    - Disc 1 - 04 - Etoile -Instrumental-.flac
+  - 華麗ワンターン - Follow You!
+    - Disc 1 - 01 - 華麗ワンターン.flac
+    - Disc 1 - 02 - Follow You!.flac
+    - Disc 1 - 03 - 華麗ワンターン -Instrumental-.flac
+    - Disc 1 - 04 - Follow You! -Instrumental-.flac
   - 誰が為に愛は鳴る
     - 01-誰が為に愛は鳴る.flac
     - 02-ひだまりの場所.flac
@@ -2674,6 +2679,13 @@
     - 10-さらし風手事.flac
     - 11-堅香子.flac
     - 12-天泣.flac
+  - それが声優！E.P.スピンオフムービー主題歌集
+    - Disc 1 - 01 - 愛と絶望のイデア.flac
+    - Disc 1 - 02 - ヒーローじゃなくていい.flac
+    - Disc 1 - 03 - この世はスパイラル！.flac
+    - Disc 1 - 04 - 愛と絶望のイデア(off vocal ver.).flac
+    - Disc 1 - 05 - ヒーローじゃなくていい(off vocal ver.).flac
+    - Disc 1 - 06 - この世はスパイラル！(off vocal ver.).flac
   - テレビアニメ「パリピ孔明」VOCAL COLLECTION MEGAMORI!!
     - 01-Be Crazy For Me.flac
     - 02-I’m still alive today acoustic ver..flac
@@ -2944,6 +2956,13 @@
     - 07-嘘つき.flac
     - 08-優しいエイプリルフール (demo).flac
 - イヤホンズ
+  - identity
+    - Disc 2 - 01 - それが声優!2021.flac
+    - Disc 2 - 02 - はじめまして.flac
+    - Disc 2 - 03 - かなしみ.flac
+    - Disc 2 - 04 - それが声優!2021 (off vocal ver.).flac
+    - Disc 2 - 05 - はじめまして (off vocal ver.).flac
+    - Disc 2 - 06 - かなしみ (off vocal ver.).flac
   - Some Dreams
     - Disc 1 - 01 - 新次元航路.flac
     - Disc 1 - 02 - 理想郷物語.flac
@@ -2971,7 +2990,21 @@
     - Disc 2 - 12 - いーあるさんせっと.flac
     - Disc 2 - 13 - イヤホンズのMusic Trip 07.flac
     - Disc 2 - 14 - 応援歌!.flac
+  - Theory of evolution
+    - Disc 1 - 01 - 記録.flac
+    - Disc 1 - 02 - 記憶.flac
+    - Disc 1 - 03 - 渇望のジレンマ.flac
+    - Disc 1 - 04 - チュラタ チュラハ.flac
+    - Disc 1 - 05 - 背中のWING!!!.flac
+    - Disc 1 - 06 - わがままなアレゴリー!!!.flac
+    - Disc 1 - 07 - 循環謳歌.flac
+    - Disc 1 - 08 - 耳の中へ!!!.flac
 - えなこ
+  - SP‐LuSH ROAD
+    - Disc 1 - 01 - SP‐LuSH ROAD.flac
+    - Disc 1 - 02 - ふたり花火.flac
+    - Disc 1 - 03 - SP‐LuSH ROAD(Instrumental).flac
+    - Disc 1 - 04 - ふたり花火(Instrumental).flac
   - えなこわーるど
     - Disc 1 - 01 - Colorful Fairy Voyage♪.flac
     - Disc 1 - 02 - 届け！W〇〇KEND.flac
@@ -3024,6 +3057,11 @@
     - 15-粛清!! ロリ神レクイエム☆ (Instrumental).flac
     - 16-rainy lady (Instrumental).flac
     - 17-Pris-Magic! (Instrumental).flac
+- スーパーちょろゴンず
+  - めいど・うぃず・どらごんず♥
+    - Disc 1 - 01 - めいど・うぃず・どらごんず♥.flac
+    - Disc 1 - 02 - 愛のシュプリーム! (スーパーちょろゴンず ver.).flac
+    - Disc 1 - 03 - めいど・うぃず・どらごんず♥ (off vocal).flac
 - ずっと真夜中でいいのに。
   - 沈香学
     - 01-花一匁.flac
@@ -3287,6 +3325,12 @@
     - 14-インフィニティ.flac
     - 15-飛行船.flac
     - 16-かくれんぼ.flac
+- 吾妻凛(CV:高橋李依)
+  - 小さな想い
+    - Disc 1 - 01 - 小さな想い.flac
+    - Disc 1 - 02 - Two of Us.flac
+    - Disc 1 - 03 - 小さな想い (instrumental).flac
+    - Disc 1 - 04 - Two of Us (instrumental).flac
 - 和ぬか
   - 審美眼
     - 01-審美眼.flac
@@ -3383,6 +3427,14 @@
     - 02-パンドラ ショコラ.flac
     - 03-Charming Do! (off vocal ver.).flac
     - 04-パンドラ ショコラ (off vocal ver.).flac
+  - ハピネス*センセーション
+    - Disc 1 - 01 - ハピネス*センセーション.flac
+    - Disc 1 - 02 - Look@Me♡.flac
+    - Disc 1 - 03 - 瞳の国のアリス -Dance Music Edition-.flac
+    - Disc 1 - 04 - ハピネス*センセーション (TV size).flac
+    - Disc 1 - 05 - ハピネス*センセーション (off vocal ver).flac
+    - Disc 1 - 06 - Look@Me♡ (off vocal ver).flac
+    - Disc 1 - 07 - 瞳の国のアリス -Dance Music Edition- (off vocal ver).flac
 - 岡咲美保
   - ハピネス
     - Disc 1 - 01 - ハピネス.flac
@@ -3417,6 +3469,12 @@
     - Disc 1 - 02 - 青春謳歌 [Anime Edit].flac
     - Disc 1 - 03 - 青春謳歌 [Instrumental].flac
     - Disc 1 - 04 - 青春ッ!!あのりらじお.flac
+- 志田黒羽(CV:水瀬いのり)、可知白草(CV:佐倉綾音)
+  - 戦略的で予測不能なラブコメディのエンディング曲
+    - Disc 1 - 01 - 戦略的で予測不能なラブコメディのエンディング曲.flac
+    - Disc 1 - 02 - Baby Monster.flac
+    - Disc 1 - 03 - 戦略的で予測不能なラブコメディのエンディング曲 (instrumental).flac
+    - Disc 1 - 04 - Baby Monster (instrumental).flac
 - 悠木碧
   - 帰る場所があるということ
     - 01-帰る場所があるということ.flac
@@ -3514,6 +3572,11 @@
     - 04-やさしい希望 (TV EDIT).flac
     - 05-やさしい希望 (Instrumental).flac
     - 06-ブルーアワーに祈りを (Instrumental).flac
+  - 夢の果てまで
+    - Disc 1 - 01 - 夢の果てまで.flac
+    - Disc 1 - 02 - SIDE SEAT TRAVEL.flac
+    - Disc 1 - 03 - 夢の果てまで(Instrumental).flac
+    - Disc 1 - 04 - SIDE SEAT TRAVEL(Instrumental).flac
 - 星川サラ
   - きみとのShining Days
     - 01-恋の押し売り.flac
@@ -3565,6 +3628,32 @@
     - Disc 1 - 03 - 不可思議のカルテ -Instrumental-.flac
     - Disc 1 - 04 - BABY! -Instrumental-.flac
 - 水瀬いのり
+  - BLUE COMPASS
+    - Disc 1 - 01 - ハートノイロ.flac
+    - Disc 1 - 02 - Ready Steady Go!.flac
+    - Disc 1 - 03 - identity.flac
+    - Disc 1 - 04 - Shoo-Bee-Doo-Wap-Wap!.flac
+    - Disc 1 - 05 - シネマチックダイアリー.flac
+    - Disc 1 - 06 - アイマイモコ.flac
+    - Disc 1 - 07 - これからも。.flac
+    - Disc 1 - 08 - アルペジオ.flac
+    - Disc 1 - 09 - Million Futures.flac
+    - Disc 1 - 10 - 三月と群青.flac
+    - Disc 1 - 11 - Sweet Melody.flac
+    - Disc 1 - 12 - BLUE COMPASS.flac
+  - Catch the Rainbow!
+    - Disc 1 - 01 - Step Up!.flac
+    - Disc 1 - 02 - ココロはMerry-Go-Round.flac
+    - Disc 1 - 03 - Kitty Cat Adventure.flac
+    - Disc 1 - 04 - Wonder Caravan!.flac
+    - Disc 1 - 05 - 今を僕らしく生きてくために.flac
+    - Disc 1 - 06 - 約束のアステリズム.flac
+    - Disc 1 - 07 - Future Seeker.flac
+    - Disc 1 - 08 - brave climber.flac
+    - Disc 1 - 09 - TRUST IN ETERNITY.flac
+    - Disc 1 - 10 - 水彩メモリー.flac
+    - Disc 1 - 11 - My Graffiti.flac
+    - Disc 1 - 12 - Catch the Rainbow!.flac
   - アイオライト
     - Disc 1 - 01 - アイオライト.flac
     - Disc 1 - 02 - クータスタ.flac
