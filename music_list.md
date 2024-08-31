@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/08/04 07:16
+###### updated on 2024/08/31 19:43
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -812,12 +812,12 @@
     - 05-空のエメラルド -off vocal ver.-.flac
     - 06-僕らの環境 -off vocal ver.-.flac
   - 何もしてあげられない
-    - Disc 1 - 01 - 何もしてあげられない.flac
-    - Disc 1 - 02 - 君はMoon.flac
-    - Disc 1 - 03 - Rain of lies.flac
-    - Disc 1 - 04 - 何もしてあげられない -off vocal ver.-.flac
-    - Disc 1 - 05 - 君はMoon -off vocal ver.-.flac
-    - Disc 1 - 06 - Rain of lies -off vocal ver.-.flac
+    - 01-何もしてあげられない.flac
+    - 02-君はMoon.flac
+    - 03-Rain of lies.flac
+    - 04-何もしてあげられない -off vocal ver.-.flac
+    - 05-君はMoon -off vocal ver.-.flac
+    - 06-Rain of lies -off vocal ver.-.flac
   - 僕が持ってるものなら [初回盤]
     - 01-僕が持ってるものなら.flac
     - 02-タチツテトパワー.flac
@@ -826,12 +826,12 @@
     - 05-タチツテトパワー -off vocal ver.-.flac
     - 06-キウイの主張 -off vocal ver.-.flac
   - 僕は今夜、出て行く
-    - Disc 1 - 01 - 僕は今夜、出て行く.flac
-    - Disc 1 - 02 - あやふやな世界観.flac
-    - Disc 1 - 03 - もう純情は邪魔なだけ.flac
-    - Disc 1 - 04 - 僕は今夜、出て行く –off vocal ver.–.flac
-    - Disc 1 - 05 - あやふやな世界観 –off vocal ver.–.flac
-    - Disc 1 - 06 - もう純情は邪魔なだけ –off vocal ver.–.flac
+    - 01-僕は今夜、出て行く.flac
+    - 02-あやふやな世界観.flac
+    - 03-もう純情は邪魔なだけ.flac
+    - 04-僕は今夜、出て行く –off vocal ver.–.flac
+    - 05-あやふやな世界観 –off vocal ver.–.flac
+    - 06-もう純情は邪魔なだけ –off vocal ver.–.flac
 - Ado
   - Adoの歌ってみたアルバム
     - 01-ドライフラワー.flac
@@ -891,22 +891,22 @@
     - 13-RE_I AM.flac
     - 14-zero.flac
   - Bitter & Sweet
-    - Disc 1 - 01 - リフレインが叫んでる.flac
-    - Disc 1 - 02 - L-O-V-E.flac
-    - Disc 1 - 03 - Poker Face.flac
-    - Disc 1 - 04 - 三日月.flac
-    - Disc 1 - 05 - Viva La Vida.flac
-    - Disc 1 - 06 - また君に恋してる.flac
-    - Disc 1 - 07 - 強く儚い者たち.flac
-    - Disc 1 - 08 - Calendar Girl.flac
-    - Disc 1 - 09 - 今宵の月のように.flac
-    - Disc 1 - 10 - Baby Love.flac
-    - Disc 1 - 11 - Crazy In Love.flac
-    - Disc 1 - 12 - Precious.flac
-    - Disc 1 - 13 - Breaking Up Is Hard To Do.flac
-    - Disc 1 - 14 - I WILL ALWAYS LOVE YOU.flac
-    - Disc 1 - 15 - CHANGE THE WORLD.flac
-    - Disc 1 - 16 - ORION.flac
+    - 01-リフレインが叫んでる.flac
+    - 02-L-O-V-E.flac
+    - 03-Poker Face.flac
+    - 04-三日月.flac
+    - 05-Viva La Vida.flac
+    - 06-また君に恋してる.flac
+    - 07-強く儚い者たち.flac
+    - 08-Calendar Girl.flac
+    - 09-今宵の月のように.flac
+    - 10-Baby Love.flac
+    - 11-Crazy In Love.flac
+    - 12-Precious.flac
+    - 13-Breaking Up Is Hard To Do.flac
+    - 14-I WILL ALWAYS LOVE YOU.flac
+    - 15-CHANGE THE WORLD.flac
+    - 16-ORION.flac
   - Deep down
     - 01-Deep down.flac
     - 02-オアイコ.flac
@@ -1004,10 +1004,10 @@
     - 11-ごめんね、好きになっちゃって….flac
 - ano feat. 幾田りら
   - 絶絶絶絶対聖域
-    - Disc 1 - 01 - 絶絶絶絶対聖域.flac
-    - Disc 1 - 02 - 絶絶絶絶対聖域 [Anime Edit].flac
-    - Disc 1 - 03 - 絶絶絶絶対聖域 [Instrumental].flac
-    - Disc 1 - 04 - 絶対ッ!!あのりらじお.flac
+    - 01-絶絶絶絶対聖域.flac
+    - 02-絶絶絶絶対聖域 [Anime Edit].flac
+    - 03-絶絶絶絶対聖域 [Instrumental].flac
+    - 04-絶対ッ!!あのりらじお.flac
 - AOA
   - 단발머리
     - 01-Fantasy.flac
@@ -1088,10 +1088,10 @@
     - 06-시간차.flac
 - Ave Mujica
   - 素晴らしき世界 でも どこにもない場所
-    - Disc 1 - 01 - 素晴らしき世界 でも どこにもない場所.flac
-    - Disc 1 - 02 - Angles.flac
-    - Disc 1 - 03 - 素晴らしき世界 でも どこにもない場所 -instrumental-.flac
-    - Disc 1 - 04 - Angles -instrumental-.flac
+    - 01-素晴らしき世界 でも どこにもない場所.flac
+    - 02-Angles.flac
+    - 03-素晴らしき世界 でも どこにもない場所 -instrumental-.flac
+    - 04-Angles -instrumental-.flac
 - Awkmiu
   - アロー
     - 01-アロー.flac
@@ -1137,14 +1137,14 @@
     - 06-Xx[Acoustic].flac
 - BUMP OF CHICKEN
   - SOUVENIR
-    - Disc 1 - 01 - SOUVENIR.flac
-    - Disc 1 - 02 - クロノスタシス.flac
-    - Disc 1 - 03 - 窓の中から.flac
-    - Disc 1 - 04 - 大地.flac
+    - 01-SOUVENIR.flac
+    - 02-クロノスタシス.flac
+    - 03-窓の中から.flac
+    - 04-大地.flac
   - なないろ
-    - Disc 1 - 01 - なないろ.flac
-    - Disc 1 - 02 - Flare.flac
-    - Disc 1 - 03 - Small world.flac
+    - 01-なないろ.flac
+    - 02-Flare.flac
+    - 03-Small world.flac
 - Cherry Bullet
   - Let's Play Cherry Bullet [Single]
     - 01-Q & A.flac
@@ -1201,11 +1201,47 @@
     - 12-ひらひら ひらら -Clara solo ver.-.flac
     - 13-recall -Karen solo ver.-.flac
     - 14-仮面ジュブナイル.flac
+  - Fairy Castle
+    - 01-again.flac
+    - 02-border.flac
+    - 03-ホログラム.flac
+    - 04-Prism.flac
+    - 05-clever.flac
+    - 06-水色クラゲ.flac
+    - 07-このiは虚数.flac
+    - 08-アネモネ.flac
+    - 09-ウソツキ.flac
+    - 10-Gravity.flac
+    - 11-recall.flac
+    - 12-ひらひら ひらら.flac
+    - 13-コネクト -2017-.flac
+    - 14-ルミナス -2017-.flac
+    - 15-カラフル -2017-.flac
+  - Fairy Party
+    - 10-TRAVEL.flac
+    - 11-PRIMALove.flac
+    - 12-Time Tunnel.flac
+    - 13-シニカルサスペンス.flac
+    - 14-Fairy Party.flac
+    - 1-Overture.flac
+    - 2-1-f.flac
+    - 3-ヒトリゴト.flac
+    - 4-SHIORI.flac
+    - 5-CheerS.flac
+    - 6-陽だまり.flac
+    - 7-distance.flac
+    - 8-パラレルワープ.flac
+    - 9-Last Squall.flac
+  - Fight
+    - 1-Fight.flac
+    - 2-Brave.flac
+    - 3-恋待かぐや.flac
+    - 4-Fight -Instrumental-.flac
   - アンダンテ
-    - Disc 1 - 01 - アンダンテ.flac
-    - Disc 1 - 02 - サクラ・インカーネーション.flac
-    - Disc 1 - 03 - 擬態.flac
-    - Disc 1 - 04 - アンダンテ -Instrumental-.flac
+    - 01-アンダンテ.flac
+    - 02-サクラ・インカーネーション.flac
+    - 03-擬態.flac
+    - 04-アンダンテ -Instrumental-.flac
   - コイセカイ [期間生産限定盤]
     - 01-コイセカイ.flac
     - 02-Blue Canvas.flac
@@ -1224,10 +1260,10 @@
     - 02-Helicopter (English ver.).flac
 - Creepy Nuts
   - 二度寝 - Bling‐Bang‐Bang‐Born
-    - Disc 1 - 01 - 二度寝.flac
-    - Disc 1 - 02 - Bling‐Bang‐Bang‐Born.flac
-    - Disc 1 - 03 - 二度寝 (instrumental).flac
-    - Disc 1 - 04 - Bling‐Bang‐Bang‐Born (instrumental).flac
+    - 01-二度寝.flac
+    - 02-Bling‐Bang‐Bang‐Born.flac
+    - 03-二度寝 (instrumental).flac
+    - 04-Bling‐Bang‐Bang‐Born (instrumental).flac
   - 堕天
     - 01-堕天.flac
     - 02-ロスタイム.flac
@@ -1334,14 +1370,18 @@
     - 03-Starry Night.flac
     - 04-Somebody To Love.flac
     - 05-Mulgogi.flac
+  - Supersonic
+    - 01-Supersonic.flac
+    - 02-Beat the Heat.flac
+    - 03-Take A Chance.flac
   - Talk & Talk
     - 01-Talk&Talk.flac
 - Gen Hoshino
   - 光の跡／生命体
-    - Disc 1 - 01 - 光の跡.flac
-    - Disc 1 - 02 - 生命体.flac
-    - Disc 1 - 03 - おともだち.flac
-    - Disc 1 - 04 - Beyond the Sequence.flac
+    - 01-光の跡.flac
+    - 02-生命体.flac
+    - 03-おともだち.flac
+    - 04-Beyond the Sequence.flac
 - (G)I-DLE
   - I Burn
     - 01-HANN (Alone In Winter).flac
@@ -1358,10 +1398,10 @@
     - 05-Blow Your Mind.flac
 - Hana Hope
   - 旅のゆくえ
-    - Disc 1 - 01 - 旅のゆくえ.flac
-    - Disc 1 - 02 - Rain Or Shine.flac
-    - Disc 1 - 03 - passing forward.flac
-    - Disc 1 - 04 - 旅のゆくえ (English version).flac
+    - 01-旅のゆくえ.flac
+    - 02-Rain Or Shine.flac
+    - 03-passing forward.flac
+    - 04-旅のゆくえ (English version).flac
 - H-el-ical--
   - Altern-ate-
     - 01-Altern-ate-.flac
@@ -1505,12 +1545,12 @@
     - 10-Cherish.flac
     - 11-Shine With Me.flac
   - I’VE MINE
-    - Disc 1 - 01 - Off the Record.flac
-    - Disc 1 - 02 - Baddie.flac
-    - Disc 1 - 03 - Either Way.flac
-    - Disc 1 - 04 - Holy Moly.flac
-    - Disc 1 - 05 - OTT.flac
-    - Disc 1 - 06 - Payback.flac
+    - 01-Off the Record.flac
+    - 02-Baddie.flac
+    - 03-Either Way.flac
+    - 04-Holy Moly.flac
+    - 05-OTT.flac
+    - 06-Payback.flac
   - LOVE DIVE
     - 01-LOVE DIVE.flac
     - 02-ROYAL.flac
@@ -1702,17 +1742,36 @@
     - 01-UNFORGIVEN -Japanese ver.-.flac
     - 02-ANTIFRAGILE -Japanese ver.-.flac
     - 03-ジュエリー (Prod.imase).flac
+- Linked Horizon
+  - 進撃の記憶
+    - 01-紅蓮の弓矢.flac
+    - 02-14文字の伝言.flac
+    - 03-最期の戦果.flac
+    - 04-自由の翼.flac
+    - 05-双翼のヒカリ.flac
+    - 06-彼女は冷たい棺の中で.flac
+    - 07-心臓を捧げよ!.flac
+    - 08-神の御業.flac
+    - 09-もしこの壁の中が一軒の家だとしたら.flac
+    - 10-黄昏の楽園.flac
+    - 11-革命の夜に.flac
+    - 12-暁の鎮魂歌.flac
+    - 13-憧憬と屍の道.flac
+    - 14-13の冬.flac
+    - 15-語られざる記憶.flac
+    - 16-最後の巨人.flac
+    - 17-二千年… 若しくは… 二万年後の君へ・・・.flac
 - LiSA
   - dawn
-    - Disc 1 - 01 - dawn.flac
-    - Disc 1 - 02 - BRAND NEW YOU.flac
-    - Disc 1 - 03 - dawn -TV ver.-.flac
-    - Disc 1 - 04 - dawn -Instrumental-.flac
+    - 01-dawn.flac
+    - 02-BRAND NEW YOU.flac
+    - 03-dawn -TV ver.-.flac
+    - 04-dawn -Instrumental-.flac
   - 炎
-    - Disc 1 - 01 - 炎.flac
-    - Disc 1 - 02 - ロストロマンス.flac
-    - Disc 1 - 03 - My Friends Forever.flac
-    - Disc 1 - 04 - 炎 -Instrumental-.flac
+    - 01-炎.flac
+    - 02-ロストロマンス.flac
+    - 03-My Friends Forever.flac
+    - 04-炎 -Instrumental-.flac
 - Lovelyz
   - Unforgettable
     - 01-Unforgettable.flac
@@ -1804,21 +1863,30 @@
     - 01-OMG.flac
     - 02-Ditto.flac
   - Supernatural
-    - Disc 1 - 01 - Supernatural.flac
-    - Disc 1 - 02 - Right Now.flac
-    - Disc 1 - 03 - Supernatural (instrumental).flac
-    - Disc 1 - 04 - Right Now (instrumental).flac
+    - 01-Supernatural.flac
+    - 02-Right Now.flac
+    - 03-Supernatural (instrumental).flac
+    - 04-Right Now (instrumental).flac
 - Nornis
+  - salvia
+    - 01-salvia.flac
+    - 02-White Blossom -Duet ver..flac
+    - 03-Fragment -Duet ver..flac
+    - 04-Ray of Hope.flac
+    - 05-salvia (instrumental).flac
+    - 06-White Blossom (instrumental).flac
+    - 07-Fragment (instrumental).flac
+    - 08-Ray of Hope (instrumental).flac
   - Tensegrity
-    - Disc 1 - 01 - Tensegrity.flac
-    - Disc 1 - 02 - Deep Forest.flac
-    - Disc 1 - 03 - ジョハリ.flac
-    - Disc 1 - 04 - just wonder.flac
-    - Disc 1 - 05 - innocent flowers.flac
-    - Disc 1 - 06 - Min-night.flac
-    - Disc 2 - 01 - ボクノート.flac
-    - Disc 2 - 02 - 明日への手紙.flac
-    - Disc 2 - 03 - 歌よ.flac
+    - 01-Tensegrity.flac
+    - 01-ボクノート.flac
+    - 02-Deep Forest.flac
+    - 02-明日への手紙.flac
+    - 03-ジョハリ.flac
+    - 03-歌よ.flac
+    - 04-just wonder.flac
+    - 05-innocent flowers.flac
+    - 06-Min-night.flac
   - Transparent Blue
     - 01-Transparent Blue.flac
     - 02-Abyssal Zone.flac
@@ -1855,13 +1923,13 @@
     - 04-Discord(inst.).flac
     - 05-별의 하모니(jin rico remix).flac
   - MANITO
-    - Disc 1 - 01 - 고민중독.flac
-    - Disc 1 - 02 - SODA.flac
-    - Disc 1 - 03 - 자유선언.flac
-    - Disc 1 - 04 - 지구정복.flac
-    - Disc 1 - 05 - 대관람차.flac
-    - Disc 1 - 06 - 불꽃놀이.flac
-    - Disc 1 - 07 - 마니또.flac
+    - 01-고민중독.flac
+    - 02-SODA.flac
+    - 03-자유선언.flac
+    - 04-지구정복.flac
+    - 05-대관람차.flac
+    - 06-불꽃놀이.flac
+    - 07-마니또.flac
 - RADWIMPS
   - すずめの戸締まり
     - 01-二人の出逢い.flac
@@ -2166,10 +2234,10 @@
     - 06-Happy.flac
 - TRUE
   - アンサンブル
-    - Disc 1 - 01 - アンサンブル.flac
-    - Disc 1 - 02 - タイムマシン.flac
-    - Disc 1 - 03 - アンサンブル (Instrumental).flac
-    - Disc 1 - 04 - タイムマシン (Instrumental).flac
+    - 01-アンサンブル.flac
+    - 02-タイムマシン.flac
+    - 03-アンサンブル (Instrumental).flac
+    - 04-タイムマシン (Instrumental).flac
 - TrySail
   - azure
     - 01-azure.flac
@@ -2231,15 +2299,15 @@
     - 03-コバルト (Instrumental).flac
     - 04-ホントだよ (Instrumental).flac
   - はなれない距離
-    - Disc 1 - 01 - はなれない距離.flac
-    - Disc 1 - 02 - Etoile.flac
-    - Disc 1 - 03 - はなれない距離 -Instrumental-.flac
-    - Disc 1 - 04 - Etoile -Instrumental-.flac
+    - 01-はなれない距離.flac
+    - 02-Etoile.flac
+    - 03-はなれない距離 -Instrumental-.flac
+    - 04-Etoile -Instrumental-.flac
   - 華麗ワンターン - Follow You!
-    - Disc 1 - 01 - 華麗ワンターン.flac
-    - Disc 1 - 02 - Follow You!.flac
-    - Disc 1 - 03 - 華麗ワンターン -Instrumental-.flac
-    - Disc 1 - 04 - Follow You! -Instrumental-.flac
+    - 01-華麗ワンターン.flac
+    - 02-Follow You!.flac
+    - 03-華麗ワンターン -Instrumental-.flac
+    - 04-Follow You! -Instrumental-.flac
   - 誰が為に愛は鳴る
     - 01-誰が為に愛は鳴る.flac
     - 02-ひだまりの場所.flac
@@ -2656,16 +2724,16 @@
     - 05-いいかげんにして、あなた (一人でデュエット・スペシャルカラオケ- ハジメなりきりバージョン).flac
     - 06-いいかげんにして、あなた (二人でデュエット・スペシャルカラオケ- リア充バージョン).flac
   - うちタマ 〜うちのタマ知りませんか〜 ボーカルコレクション
-    - Disc 1 - 01 - ひだまりを探して.flac
-    - Disc 1 - 02 - Rainy Bull.flac
-    - Disc 1 - 03 - いつもいつもの散歩道.flac
-    - Disc 1 - 04 - ３丁目の星☆.flac
-    - Disc 1 - 05 - UP TO DATE！.flac
-    - Disc 1 - 06 - 犬猫エレジー.flac
-    - Disc 1 - 07 - Kitty's cutie!.flac
-    - Disc 1 - 08 - なんてことない唄.flac
-    - Disc 1 - 09 - Play with me…？.flac
-    - Disc 1 - 10 - ハレルヤ‧ハレルヤ.flac
+    - 01-ひだまりを探して.flac
+    - 02-Rainy Bull.flac
+    - 03-いつもいつもの散歩道.flac
+    - 04-３丁目の星☆.flac
+    - 05-UP TO DATE！.flac
+    - 06-犬猫エレジー.flac
+    - 07-Kitty's cutie!.flac
+    - 08-なんてことない唄.flac
+    - 09-Play with me…？.flac
+    - 10-ハレルヤ‧ハレルヤ.flac
   - この音とまれ! 時瀬高等学校箏曲部
     - 01-龍星群.flac
     - 02-六段の調 (武蔵ver.).flac
@@ -2680,12 +2748,12 @@
     - 11-堅香子.flac
     - 12-天泣.flac
   - それが声優！E.P.スピンオフムービー主題歌集
-    - Disc 1 - 01 - 愛と絶望のイデア.flac
-    - Disc 1 - 02 - ヒーローじゃなくていい.flac
-    - Disc 1 - 03 - この世はスパイラル！.flac
-    - Disc 1 - 04 - 愛と絶望のイデア(off vocal ver.).flac
-    - Disc 1 - 05 - ヒーローじゃなくていい(off vocal ver.).flac
-    - Disc 1 - 06 - この世はスパイラル！(off vocal ver.).flac
+    - 01-愛と絶望のイデア.flac
+    - 02-ヒーローじゃなくていい.flac
+    - 03-この世はスパイラル！.flac
+    - 04-愛と絶望のイデア(off vocal ver.).flac
+    - 05-ヒーローじゃなくていい(off vocal ver.).flac
+    - 06-この世はスパイラル！(off vocal ver.).flac
   - テレビアニメ「パリピ孔明」VOCAL COLLECTION MEGAMORI!!
     - 01-Be Crazy For Me.flac
     - 02-I’m still alive today acoustic ver..flac
@@ -2717,25 +2785,25 @@
     - 14-バラード第1番　ト短調　作品23.flac
 - Various Artists feat. Hatsune Miku
   - EXIT TUNES PRESENTS Vocalogenesis
-    - Disc 1 - 01 - 右肩の蝶.flac
-    - Disc 1 - 02 - 初音ミクの暴走 -Full ver.-.flac
-    - Disc 1 - 03 - いろは唄.flac
-    - Disc 1 - 04 - ローリンガール.flac
-    - Disc 1 - 05 - パラジクロロベンゼン.flac
-    - Disc 1 - 06 - IMITATION BLACK.flac
-    - Disc 1 - 07 - イケ恋歌.flac
-    - Disc 1 - 08 - 番凩.flac
-    - Disc 1 - 09 - 紡唄 -つむぎうた-.flac
-    - Disc 1 - 10 - リグレットメッセージ.flac
-    - Disc 1 - 11 - しねばいいのに.flac
-    - Disc 1 - 12 - リア充爆発しろ！.flac
-    - Disc 1 - 13 - charActer.flac
-    - Disc 1 - 14 - 1-6 -genesis mix-.flac
-    - Disc 1 - 15 - erase or zero (Vocalogenesis only NewMix).flac
-    - Disc 1 - 16 - Nostalogic (single edit).flac
-    - Disc 1 - 17 - DYE.flac
-    - Disc 1 - 18 - Genesis.flac
-    - Disc 1 - 19 - 右肩の蝶 -Ver.3.0.1-.flac
+    - 01-右肩の蝶.flac
+    - 02-初音ミクの暴走 -Full ver.-.flac
+    - 03-いろは唄.flac
+    - 04-ローリンガール.flac
+    - 05-パラジクロロベンゼン.flac
+    - 06-IMITATION BLACK.flac
+    - 07-イケ恋歌.flac
+    - 08-番凩.flac
+    - 09-紡唄 -つむぎうた-.flac
+    - 10-リグレットメッセージ.flac
+    - 11-しねばいいのに.flac
+    - 12-リア充爆発しろ！.flac
+    - 13-charActer.flac
+    - 14-1-6 -genesis mix-.flac
+    - 15-erase or zero (Vocalogenesis only NewMix).flac
+    - 16-Nostalogic (single edit).flac
+    - 17-DYE.flac
+    - 18-Genesis.flac
+    - 19-右肩の蝶 -Ver.3.0.1-.flac
 - VIVIZ
   - VarioUS
     - 01-PULL UP.flac
@@ -2746,9 +2814,9 @@
     - 06-So Special.flac
 - wacci
   - 愛は薬
-    - Disc 1 - 01 - 愛は薬.flac
-    - Disc 1 - 02 - リバイバル.flac
-    - Disc 1 - 03 - 君だ.flac
+    - 01-愛は薬.flac
+    - 02-リバイバル.flac
+    - 03-君だ.flac
 - Yena
   - DNA
     - 01-DNA.flac
@@ -2803,51 +2871,51 @@
     - 04-優しい彗星 (Tv Size Ver.).flac
 - Yuki Kajiura
   - 魔法少女まどか☆マギカ Music Collection
-    - Disc 1 - 01 - prelude to Act 1.flac
-    - Disc 1 - 02 - Scaena felix.flac
-    - Disc 1 - 03 - Postmeridie.flac
-    - Disc 1 - 04 - Conturbatio.flac
-    - Disc 1 - 05 - Puella in somnio.flac
-    - Disc 1 - 06 - Salve, terrae magicae.flac
-    - Disc 1 - 07 - Desiderium.flac
-    - Disc 1 - 08 - Gradus prohibitus.flac
-    - Disc 1 - 09 - Credens justitiam.flac
-    - Disc 1 - 10 - Sis puella magica!.flac
-    - Disc 1 - 11 - Inevitabilis.flac
-    - Disc 1 - 12 - Pugna cum maga.flac
-    - Disc 1 - 13 - Vocalise Op. 34 no. 14.flac
-    - Disc 1 - 14 - Umbra nigra.flac
-    - Disc 1 - 15 - Venari strigas.flac
-    - Disc 1 - 16 - Agmen clientum.flac
-    - Disc 1 - 17 - Signum malum.flac
-    - Disc 1 - 18 - Serena ira.flac
-    - Disc 1 - 19 - Incertus.flac
-    - Disc 1 - 20 - Ave Maria.flac
-    - Disc 1 - 21 - Decretum.flac
-    - Disc 1 - 22 - Anima mala.flac
-    - Disc 1 - 23 - また あした.flac
-    - Disc 1 - 24 - and I’m home -Original Master Version.-.flac
-    - Disc 1 - 25 - コネクト -ゲームインスト-.flac
-    - Disc 2 - 01 - prelude to Act 2.flac
-    - Disc 2 - 02 - Amicae carae meae.flac
-    - Disc 2 - 03 - Clementia.flac
-    - Disc 2 - 04 - La Fille aux Cheveux de Lin.flac
-    - Disc 2 - 05 - Pugna infinita.flac
-    - Disc 2 - 06 - Confessio.flac
-    - Disc 2 - 07 - Cor destructum.flac
-    - Disc 2 - 08 - Terror adhaerens.flac
-    - Disc 2 - 09 - Symposium magarum.flac
-    - Disc 2 - 10 - Numquam vincar.flac
-    - Disc 2 - 11 - Quamobrem?.flac
-    - Disc 2 - 12 - Surgam identidem.flac
-    - Disc 2 - 13 - Nux Walpurgis.flac
-    - Disc 2 - 14 - Sagitta luminis.flac
-    - Disc 2 - 15 - Cubilulum album.flac
-    - Disc 2 - 16 - Taenia memoriae.flac
-    - Disc 2 - 17 - Pergo pugnare.flac
-    - Disc 2 - 18 - コネクト.flac
-    - Disc 2 - 19 - Magia.flac
-    - Disc 2 - 20 - Numquam vincar (Live ver.).flac
+    - 01-prelude to Act 1.flac
+    - 01-prelude to Act 2.flac
+    - 02-Amicae carae meae.flac
+    - 02-Scaena felix.flac
+    - 03-Clementia.flac
+    - 03-Postmeridie.flac
+    - 04-Conturbatio.flac
+    - 04-La Fille aux Cheveux de Lin.flac
+    - 05-Puella in somnio.flac
+    - 05-Pugna infinita.flac
+    - 06-Confessio.flac
+    - 06-Salve, terrae magicae.flac
+    - 07-Cor destructum.flac
+    - 07-Desiderium.flac
+    - 08-Gradus prohibitus.flac
+    - 08-Terror adhaerens.flac
+    - 09-Credens justitiam.flac
+    - 09-Symposium magarum.flac
+    - 10-Numquam vincar.flac
+    - 10-Sis puella magica!.flac
+    - 11-Inevitabilis.flac
+    - 11-Quamobrem.flac
+    - 12-Pugna cum maga.flac
+    - 12-Surgam identidem.flac
+    - 13-Nux Walpurgis.flac
+    - 13-Vocalise Op. 34 no. 14.flac
+    - 14-Sagitta luminis.flac
+    - 14-Umbra nigra.flac
+    - 15-Cubilulum album.flac
+    - 15-Venari strigas.flac
+    - 16-Agmen clientum.flac
+    - 16-Taenia memoriae.flac
+    - 17-Pergo pugnare.flac
+    - 17-Signum malum.flac
+    - 18-Serena ira.flac
+    - 18-コネクト.flac
+    - 19-Incertus.flac
+    - 19-Magia.flac
+    - 20-Ave Maria.flac
+    - 20-Numquam vincar (Live ver.).flac
+    - 21-Decretum.flac
+    - 22-Anima mala.flac
+    - 23-また あした.flac
+    - 24-and I’m home -Original Master Version.-.flac
+    - 25-コネクト -ゲームインスト-.flac
 - ZUTOMAYO
   - 正しい偽りからの起床
     - 01-秒針を噛む.flac
@@ -2926,13 +2994,6 @@
     - 08-裸の心 (弾き語りver.).flac
     - 09-マリーゴールド (弾き語りver.).flac
     - 10-青春と青春と青春 (弾き語りver.).flac
-- アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)
-  - あの日のままのぼくら
-    - Disc 1 - 01 - あの日のままのぼくら.flac
-    - Disc 1 - 02 - あの日のままのぼくら (アクア ver.).flac
-    - Disc 1 - 03 - あの日のままのぼくら (めぐみん ver.).flac
-    - Disc 1 - 04 - あの日のままのぼくら (ダクネス ver.).flac
-    - Disc 1 - 05 - あの日のままのぼくら (off vocal ver.).flac
 - あたらよ
   - 極夜において月は語らず
     - 01-交差点.flac
@@ -2957,61 +3018,74 @@
     - 08-優しいエイプリルフール (demo).flac
 - イヤホンズ
   - identity
-    - Disc 2 - 01 - それが声優!2021.flac
-    - Disc 2 - 02 - はじめまして.flac
-    - Disc 2 - 03 - かなしみ.flac
-    - Disc 2 - 04 - それが声優!2021 (off vocal ver.).flac
-    - Disc 2 - 05 - はじめまして (off vocal ver.).flac
-    - Disc 2 - 06 - かなしみ (off vocal ver.).flac
+    - 01-それが声優!2021.flac
+    - 02-はじめまして.flac
+    - 03-かなしみ.flac
+    - 04-それが声優!2021 (off vocal ver.).flac
+    - 05-はじめまして (off vocal ver.).flac
+    - 06-かなしみ (off vocal ver.).flac
   - Some Dreams
-    - Disc 1 - 01 - 新次元航路.flac
-    - Disc 1 - 02 - 理想郷物語.flac
-    - Disc 1 - 03 - 一件落着ゴ用心.flac
-    - Disc 1 - 04 - ミーチャイキュットンティーガプリウテグバンコ.flac
-    - Disc 1 - 05 - あたしのなかのものがたり.flac
-    - Disc 1 - 06 - Fuwa くちゃ Dreamer.flac
-    - Disc 1 - 07 - 予め失われた僕らのバラッド.flac
-    - Disc 1 - 08 - ウィッチクラフト 《テオフィルの奇蹟》.flac
-    - Disc 1 - 09 - Yummy Yummy Party.flac
-    - Disc 1 - 10 - サンキトウセン!.flac
-    - Disc 1 - 11 - ヨロコビノウタ.flac
-    - Disc 1 - 12 - 未来泥棒.flac
-    - Disc 2 - 01 - イヤホンズのMusic Trip 01.flac
-    - Disc 2 - 02 - 残酷な天使のテーゼ.flac
-    - Disc 2 - 03 - イヤホンズのMusic Trip 02.flac
-    - Disc 2 - 04 - 現象のブレイド.flac
-    - Disc 2 - 05 - イヤホンズのMusic Trip 03.flac
-    - Disc 2 - 06 - 乙女のポリシー.flac
-    - Disc 2 - 07 - イヤホンズのMusic Trip 04.flac
-    - Disc 2 - 08 - パラレルギャロップ.flac
-    - Disc 2 - 09 - イヤホンズのMusic Trip 05.flac
-    - Disc 2 - 10 - UNRULY COASTER.flac
-    - Disc 2 - 11 - イヤホンズのMusic Trip 06.flac
-    - Disc 2 - 12 - いーあるさんせっと.flac
-    - Disc 2 - 13 - イヤホンズのMusic Trip 07.flac
-    - Disc 2 - 14 - 応援歌!.flac
+    - 01-イヤホンズのMusic Trip 01.flac
+    - 01-新次元航路.flac
+    - 02-残酷な天使のテーゼ.flac
+    - 02-理想郷物語.flac
+    - 03-イヤホンズのMusic Trip 02.flac
+    - 03-一件落着ゴ用心.flac
+    - 04-ミーチャイキュットンティーガプリウテグバンコ.flac
+    - 04-現象のブレイド.flac
+    - 05-あたしのなかのものがたり.flac
+    - 05-イヤホンズのMusic Trip 03.flac
+    - 06-Fuwa くちゃ Dreamer.flac
+    - 06-乙女のポリシー.flac
+    - 07-イヤホンズのMusic Trip 04.flac
+    - 07-予め失われた僕らのバラッド.flac
+    - 08-ウィッチクラフト 《テオフィルの奇蹟》.flac
+    - 08-パラレルギャロップ.flac
+    - 09-Yummy Yummy Party.flac
+    - 09-イヤホンズのMusic Trip 05.flac
+    - 10-UNRULY COASTER.flac
+    - 10-サンキトウセン!.flac
+    - 11-イヤホンズのMusic Trip 06.flac
+    - 11-ヨロコビノウタ.flac
+    - 12-いーあるさんせっと.flac
+    - 12-未来泥棒.flac
+    - 13-イヤホンズのMusic Trip 07.flac
+    - 14-応援歌!.flac
   - Theory of evolution
-    - Disc 1 - 01 - 記録.flac
-    - Disc 1 - 02 - 記憶.flac
-    - Disc 1 - 03 - 渇望のジレンマ.flac
-    - Disc 1 - 04 - チュラタ チュラハ.flac
-    - Disc 1 - 05 - 背中のWING!!!.flac
-    - Disc 1 - 06 - わがままなアレゴリー!!!.flac
-    - Disc 1 - 07 - 循環謳歌.flac
-    - Disc 1 - 08 - 耳の中へ!!!.flac
+    - 01-記録.flac
+    - 02-記憶.flac
+    - 03-渇望のジレンマ.flac
+    - 04-チュラタ チュラハ.flac
+    - 05-背中のWING!!!.flac
+    - 06-わがままなアレゴリー!!!.flac
+    - 07-循環謳歌.flac
+    - 08-耳の中へ!!!.flac
 - えなこ
   - SP‐LuSH ROAD
-    - Disc 1 - 01 - SP‐LuSH ROAD.flac
-    - Disc 1 - 02 - ふたり花火.flac
-    - Disc 1 - 03 - SP‐LuSH ROAD(Instrumental).flac
-    - Disc 1 - 04 - ふたり花火(Instrumental).flac
+    - 01-SP‐LuSH ROAD.flac
+    - 02-ふたり花火.flac
+    - 03-SP‐LuSH ROAD(Instrumental).flac
+    - 04-ふたり花火(Instrumental).flac
   - えなこわーるど
-    - Disc 1 - 01 - Colorful Fairy Voyage♪.flac
-    - Disc 1 - 02 - 届け！W〇〇KEND.flac
-    - Disc 1 - 03 - おさんぽソング.flac
-    - Disc 1 - 04 - Colorful Fairy Voyage♪ -Karaoke-.flac
-    - Disc 1 - 05 - 届け！W〇〇KEND -Karaoke-.flac
-    - Disc 1 - 06 - おさんぽソング -Karaoke-.flac
+    - 01-Colorful Fairy Voyage♪.flac
+    - 02-届け！W〇〇KEND.flac
+    - 03-おさんぽソング.flac
+    - 04-Colorful Fairy Voyage♪ -Karaoke-.flac
+    - 05-届け！W〇〇KEND -Karaoke-.flac
+    - 06-おさんぽソング -Karaoke-.flac
+- おさまけ
+  - 戦略的で予測不能なラブコメディのエンディング曲
+    - 01-戦略的で予測不能なラブコメディのエンディング曲.flac
+    - 02-Baby Monster.flac
+    - 03-戦略的で予測不能なラブコメディのエンディング曲 (instrumental).flac
+    - 04-Baby Monster (instrumental).flac
+- このすば
+  - あの日のままのぼくら
+    - 01-あの日のままのぼくら.flac
+    - 02-あの日のままのぼくら (アクア ver.).flac
+    - 03-あの日のままのぼくら (めぐみん ver.).flac
+    - 04-あの日のままのぼくら (ダクネス ver.).flac
+    - 05-あの日のままのぼくら (off vocal ver.).flac
 - さくゆい
   - さくゆい
     - 01-さくゆいたいそう.flac
@@ -3059,9 +3133,9 @@
     - 17-Pris-Magic! (Instrumental).flac
 - スーパーちょろゴンず
   - めいど・うぃず・どらごんず♥
-    - Disc 1 - 01 - めいど・うぃず・どらごんず♥.flac
-    - Disc 1 - 02 - 愛のシュプリーム! (スーパーちょろゴンず ver.).flac
-    - Disc 1 - 03 - めいど・うぃず・どらごんず♥ (off vocal).flac
+    - 01-めいど・うぃず・どらごんず♥.flac
+    - 02-愛のシュプリーム! (スーパーちょろゴンず ver.).flac
+    - 03-めいど・うぃず・どらごんず♥ (off vocal).flac
 - ずっと真夜中でいいのに。
   - 沈香学
     - 01-花一匁.flac
@@ -3092,9 +3166,9 @@
     - 13-上辺の私自身なんだよ(inst.).flac
 - スピッツ
   - 美しい鰭
-    - Disc 1 - 01 - 美しい鰭.flac
-    - Disc 1 - 02 - 祈りはきっと.flac
-    - Disc 1 - 03 - アケホノ.flac
+    - 01-美しい鰭.flac
+    - 02-祈りはきっと.flac
+    - 03-アケホノ.flac
 - ソードアート・オンライン
   - ソードアート・オンライン -オーディナル・スケール- Original Soundtrack [Disc 1]
     - 01-in the digital world.flac
@@ -3158,25 +3232,25 @@
     - 02-四月下旬某日、アスナの日記より.flac
 - なとり
   - 絶対零度
-    - Disc 1 - 01 - 絶対零度.flac
-    - Disc 1 - 02 - 聖者たち.flac
+    - 01-絶対零度.flac
+    - 02-聖者たち.flac
 - ナナヲアカリ
   - 雷火 - 魔法
-    - Disc 1 - 01 - 雷火.flac
-    - Disc 1 - 02 - 魔法.flac
-    - Disc 1 - 03 - 雷火 (instrumental).flac
-    - Disc 1 - 04 - 魔法 (instrumental).flac
-    - Disc 1 - 05 - 雷火 (Gt Less Version).flac
-    - Disc 1 - 06 - 雷火 (Ba Less Version).flac
-    - Disc 1 - 07 - 雷火 (Dr Less Version).flac
-    - Disc 1 - 08 - 雷火 (TV Size Version).flac
+    - 01-雷火.flac
+    - 02-魔法.flac
+    - 03-雷火 (instrumental).flac
+    - 04-魔法 (instrumental).flac
+    - 05-雷火 (Gt Less Version).flac
+    - 06-雷火 (Ba Less Version).flac
+    - 07-雷火 (Dr Less Version).flac
+    - 08-雷火 (TV Size Version).flac
 - やなぎなぎ
   - ユキハルアメ
-    - Disc 1 - 01 - ユキハルアメ.flac
-    - Disc 1 - 02 - ユキトキ (TV size).flac
-    - Disc 1 - 03 - 春擬き (TV size).flac
-    - Disc 1 - 04 - 芽ぐみの雨 (TV size).flac
-    - Disc 1 - 05 - ユキハルアメ [instrumental].flac
+    - 01-ユキハルアメ.flac
+    - 02-ユキトキ (TV size).flac
+    - 03-春擬き (TV size).flac
+    - 04-芽ぐみの雨 (TV size).flac
+    - 05-ユキハルアメ [instrumental].flac
   - 芽ぐみの雨
     - 01-芽ぐみの雨.flac
     - 02-彼は誰星.flac
@@ -3249,12 +3323,12 @@
     - 04-WONDER FLIGHT [Instrumental].flac
 - 上坂すみれ
   - EASY LOVE
-    - Disc 1 - 01 - EASY LOVE.flac
-    - Disc 1 - 02 - 夢みるメイドガール.flac
-    - Disc 1 - 03 - ヒミツのトモダチ♡.flac
-    - Disc 1 - 04 - EASY LOVE (off vocal ver.).flac
-    - Disc 1 - 05 - 夢みるメイドガール (off vocal ver.).flac
-    - Disc 1 - 06 - ヒミツのトモダチ♡ (off vocal ver.).flac
+    - 01-EASY LOVE.flac
+    - 02-夢みるメイドガール.flac
+    - 03-ヒミツのトモダチ♡.flac
+    - 04-EASY LOVE (off vocal ver.).flac
+    - 05-夢みるメイドガール (off vocal ver.).flac
+    - 06-ヒミツのトモダチ♡ (off vocal ver.).flac
   - Inner Urge
     - 01-Inner Urge.flac
     - 02-ツワモノドモガ ユメノアト.flac
@@ -3266,35 +3340,38 @@
     - 03-SUMIRE #propaganda.flac
     - 04-げんし、女子は、たいようだった。 (off vocal ver.).flac
   - ボン♡キュッ♡ボンは彼のモノ♡
-    - Disc 1 - 01 - ボン♡キュッ♡ボンは彼のモノ♡.flac
-    - Disc 1 - 02 - last sparkle.flac
-    - Disc 1 - 03 - 眠れない魔物.flac
-    - Disc 1 - 04 - ボン♡キュッ♡ボンは彼のモノ♡ off vocal ver..flac
-    - Disc 1 - 05 - last sparkle off vocal ver..flac
-    - Disc 1 - 06 - 眠れない魔物 off vocal ver..flac
+    - 01-ボン♡キュッ♡ボンは彼のモノ♡.flac
+    - 02-last sparkle.flac
+    - 03-眠れない魔物.flac
+    - 04-ボン♡キュッ♡ボンは彼のモノ♡ off vocal ver..flac
+    - 05-last sparkle off vocal ver..flac
+    - 06-眠れない魔物 off vocal ver..flac
   - 七つの海よりキミの海
     - 01-七つの海よりキミの海.flac
     - 02-我旗の元へと集いたまえ.flac
     - 03-我らと我らの道を.flac
     - 04-七つの海よりキミの海 (off vocal ver.).flac
   - 踊れ! きゅーきょく哲学
-    - Disc 1 - 01 - 踊れ!きゅーきょく哲学.flac
-    - Disc 1 - 02 - ヤバい○○.flac
-    - Disc 1 - 03 - 最先端△ガール.flac
-    - Disc 1 - 04 - 踊れ!きゅーきょく哲学 (off vocal ver.).flac
-    - Disc 1 - 05 - ヤバい○○ (off vocal ver.).flac
-    - Disc 1 - 06 - 最先端△ガール (off vocal ver.).flac
+    - 01-踊れ!きゅーきょく哲学.flac
+    - 02-ヤバい○○.flac
+    - 03-最先端△ガール.flac
+    - 04-踊れ!きゅーきょく哲学 (off vocal ver.).flac
+    - 05-ヤバい○○ (off vocal ver.).flac
+    - 06-最先端△ガール (off vocal ver.).flac
+- 上田麗奈x原田ひとみ
+  - As You Like It
+    - As You Like It.flac
 - 中川翔子
   - 涙の種、笑顔の花
-    - Disc 1 - 01 - 涙の種、笑顔の花.flac
-    - Disc 1 - 02 - 午前六時.flac
-    - Disc 1 - 03 - 空色デイズ -天元突破EDITION 螺厳篇-.flac
-    - Disc 1 - 04 - 涙の種、笑顔の花 -Movie Edit-.flac
+    - 01-涙の種、笑顔の花.flac
+    - 02-午前六時.flac
+    - 03-空色デイズ -天元突破EDITION 螺厳篇-.flac
+    - 04-涙の種、笑顔の花 -Movie Edit-.flac
   - 続く世界
-    - Disc 1 - 01 - 続く世界.flac
-    - Disc 1 - 02 - through the looking glass.flac
-    - Disc 1 - 03 - 続く世界 -Instrumental-.flac
-    - Disc 1 - 04 - 空色デイズ -spiral chiptune mix-.flac
+    - 01-続く世界.flac
+    - 02-through the looking glass.flac
+    - 03-続く世界 -Instrumental-.flac
+    - 04-空色デイズ -spiral chiptune mix-.flac
 - 伊藤美来
   - Plunderer
     - 01-Plunderer.flac
@@ -3325,12 +3402,12 @@
     - 14-インフィニティ.flac
     - 15-飛行船.flac
     - 16-かくれんぼ.flac
-- 吾妻凛(CV:高橋李依)
+- 吾妻凛
   - 小さな想い
-    - Disc 1 - 01 - 小さな想い.flac
-    - Disc 1 - 02 - Two of Us.flac
-    - Disc 1 - 03 - 小さな想い (instrumental).flac
-    - Disc 1 - 04 - Two of Us (instrumental).flac
+    - 01-小さな想い.flac
+    - 02-Two of Us.flac
+    - 03-小さな想い (instrumental).flac
+    - 04-Two of Us (instrumental).flac
 - 和ぬか
   - 審美眼
     - 01-審美眼.flac
@@ -3427,23 +3504,23 @@
     - 02-パンドラ ショコラ.flac
     - 03-Charming Do! (off vocal ver.).flac
     - 04-パンドラ ショコラ (off vocal ver.).flac
-  - ハピネス*センセーション
-    - Disc 1 - 01 - ハピネス*センセーション.flac
-    - Disc 1 - 02 - Look@Me♡.flac
-    - Disc 1 - 03 - 瞳の国のアリス -Dance Music Edition-.flac
-    - Disc 1 - 04 - ハピネス*センセーション (TV size).flac
-    - Disc 1 - 05 - ハピネス*センセーション (off vocal ver).flac
-    - Disc 1 - 06 - Look@Me♡ (off vocal ver).flac
-    - Disc 1 - 07 - 瞳の国のアリス -Dance Music Edition- (off vocal ver).flac
+  - ハピネス-センセーション
+    - 01-ハピネス-センセーション.flac
+    - 02-Look@Me♡.flac
+    - 03-瞳の国のアリス -Dance Music Edition-.flac
+    - 04-ハピネス-センセーション (TV size).flac
+    - 05-ハピネス-センセーション (off vocal ver).flac
+    - 06-Look@Me♡ (off vocal ver).flac
+    - 07-瞳の国のアリス -Dance Music Edition- (off vocal ver).flac
 - 岡咲美保
   - ハピネス
-    - Disc 1 - 01 - ハピネス.flac
-    - Disc 1 - 02 - Popping Moments.flac
-    - Disc 1 - 03 - MY SPIRAL.flac
-    - Disc 1 - 04 - ハピネス (off vocal version).flac
-    - Disc 1 - 05 - Popping Moments (off vocal version).flac
-    - Disc 1 - 06 - MY SPIRAL (off vocal version).flac
-    - Disc 1 - 07 - スペシャルメッセージ.flac
+    - 01-ハピネス.flac
+    - 02-Popping Moments.flac
+    - 03-MY SPIRAL.flac
+    - 04-ハピネス (off vocal version).flac
+    - 05-Popping Moments (off vocal version).flac
+    - 06-MY SPIRAL (off vocal version).flac
+    - 07-スペシャルメッセージ.flac
 - 嵐
   - To be free
     - 01-To be free.flac
@@ -3465,16 +3542,10 @@
     - 13-レンズ - From THE FIRST TAKE.flac
 - 幾田りら feat. ano
   - 青春謳歌
-    - Disc 1 - 01 - 青春謳歌.flac
-    - Disc 1 - 02 - 青春謳歌 [Anime Edit].flac
-    - Disc 1 - 03 - 青春謳歌 [Instrumental].flac
-    - Disc 1 - 04 - 青春ッ!!あのりらじお.flac
-- 志田黒羽(CV:水瀬いのり)、可知白草(CV:佐倉綾音)
-  - 戦略的で予測不能なラブコメディのエンディング曲
-    - Disc 1 - 01 - 戦略的で予測不能なラブコメディのエンディング曲.flac
-    - Disc 1 - 02 - Baby Monster.flac
-    - Disc 1 - 03 - 戦略的で予測不能なラブコメディのエンディング曲 (instrumental).flac
-    - Disc 1 - 04 - Baby Monster (instrumental).flac
+    - 01-青春謳歌.flac
+    - 02-青春謳歌 [Anime Edit].flac
+    - 03-青春謳歌 [Instrumental].flac
+    - 04-青春ッ!!あのりらじお.flac
 - 悠木碧
   - 帰る場所があるということ
     - 01-帰る場所があるということ.flac
@@ -3483,11 +3554,11 @@
     - 04-ビロードの幕 (Instrumental).flac
 - 戌亥とこ
   - Telescope
-    - Disc 1 - 01 - テレスコープ.flac
-    - Disc 1 - 02 - 六道伍感さんぽ.flac
-    - Disc 1 - 03 - Twilight Road.flac
-    - Disc 1 - 04 - 白夜.flac
-    - Disc 1 - 05 - 残光.flac
+    - 01-テレスコープ.flac
+    - 02-六道伍感さんぽ.flac
+    - 03-Twilight Road.flac
+    - 04-白夜.flac
+    - 05-残光.flac
 - 戸松遥
   - COLORFUL GIFT
     - 01-オレンジレボリューション.flac
@@ -3573,10 +3644,10 @@
     - 05-やさしい希望 (Instrumental).flac
     - 06-ブルーアワーに祈りを (Instrumental).flac
   - 夢の果てまで
-    - Disc 1 - 01 - 夢の果てまで.flac
-    - Disc 1 - 02 - SIDE SEAT TRAVEL.flac
-    - Disc 1 - 03 - 夢の果てまで(Instrumental).flac
-    - Disc 1 - 04 - SIDE SEAT TRAVEL(Instrumental).flac
+    - 01-夢の果てまで.flac
+    - 02-SIDE SEAT TRAVEL.flac
+    - 03-夢の果てまで(Instrumental).flac
+    - 04-SIDE SEAT TRAVEL(Instrumental).flac
 - 星川サラ
   - きみとのShining Days
     - 01-恋の押し売り.flac
@@ -3621,63 +3692,62 @@
     - 14-星のカケラ [Live].flac
     - 15-39 [Live].flac
     - 16-ブループラネット [Live].flac
-- 桜島麻衣、古賀朋絵、双葉理央、豊浜のどか、梓川かえで、牧之原翔子(CV:瀬戸麻沙美、東山奈央、種﨑敦美、内田真礼、久保ユリカ、水瀬いのり)
-  - 不可思議のカルテ
-    - Disc 1 - 01 - 不可思議のカルテ.flac
-    - Disc 1 - 02 - BABY!.flac
-    - Disc 1 - 03 - 不可思議のカルテ -Instrumental-.flac
-    - Disc 1 - 04 - BABY! -Instrumental-.flac
+- 樋口楓
+  - 三D
+    - 01-Bravery Naturally.flac
+    - 02-ぶっ飛んでラニカイ.flac
+    - 03-Around the bizarre world.flac
 - 水瀬いのり
   - BLUE COMPASS
-    - Disc 1 - 01 - ハートノイロ.flac
-    - Disc 1 - 02 - Ready Steady Go!.flac
-    - Disc 1 - 03 - identity.flac
-    - Disc 1 - 04 - Shoo-Bee-Doo-Wap-Wap!.flac
-    - Disc 1 - 05 - シネマチックダイアリー.flac
-    - Disc 1 - 06 - アイマイモコ.flac
-    - Disc 1 - 07 - これからも。.flac
-    - Disc 1 - 08 - アルペジオ.flac
-    - Disc 1 - 09 - Million Futures.flac
-    - Disc 1 - 10 - 三月と群青.flac
-    - Disc 1 - 11 - Sweet Melody.flac
-    - Disc 1 - 12 - BLUE COMPASS.flac
+    - 01-ハートノイロ.flac
+    - 02-Ready Steady Go!.flac
+    - 03-identity.flac
+    - 04-Shoo-Bee-Doo-Wap-Wap!.flac
+    - 05-シネマチックダイアリー.flac
+    - 06-アイマイモコ.flac
+    - 07-これからも。.flac
+    - 08-アルペジオ.flac
+    - 09-Million Futures.flac
+    - 10-三月と群青.flac
+    - 11-Sweet Melody.flac
+    - 12-BLUE COMPASS.flac
   - Catch the Rainbow!
-    - Disc 1 - 01 - Step Up!.flac
-    - Disc 1 - 02 - ココロはMerry-Go-Round.flac
-    - Disc 1 - 03 - Kitty Cat Adventure.flac
-    - Disc 1 - 04 - Wonder Caravan!.flac
-    - Disc 1 - 05 - 今を僕らしく生きてくために.flac
-    - Disc 1 - 06 - 約束のアステリズム.flac
-    - Disc 1 - 07 - Future Seeker.flac
-    - Disc 1 - 08 - brave climber.flac
-    - Disc 1 - 09 - TRUST IN ETERNITY.flac
-    - Disc 1 - 10 - 水彩メモリー.flac
-    - Disc 1 - 11 - My Graffiti.flac
-    - Disc 1 - 12 - Catch the Rainbow!.flac
+    - 01-Step Up!.flac
+    - 02-ココロはMerry-Go-Round.flac
+    - 03-Kitty Cat Adventure.flac
+    - 04-Wonder Caravan!.flac
+    - 05-今を僕らしく生きてくために.flac
+    - 06-約束のアステリズム.flac
+    - 07-Future Seeker.flac
+    - 08-brave climber.flac
+    - 09-TRUST IN ETERNITY.flac
+    - 10-水彩メモリー.flac
+    - 11-My Graffiti.flac
+    - 12-Catch the Rainbow!.flac
   - アイオライト
-    - Disc 1 - 01 - アイオライト.flac
-    - Disc 1 - 02 - クータスタ.flac
-    - Disc 1 - 03 - 運命の赤い糸.flac
+    - 01-アイオライト.flac
+    - 02-クータスタ.flac
+    - 03-運命の赤い糸.flac
   - スクラップアート
-    - Disc 1 - 01 - スクラップアート.flac
-    - Disc 1 - 02 - くらりのうた.flac
-    - Disc 1 - 03 - While We Walk.flac
+    - 01-スクラップアート.flac
+    - 02-くらりのうた.flac
+    - 03-While We Walk.flac
 - 河崎桃子(CV.古賀柑奈)
   - 博多弁の女子高生と暮らしてみた。
-    - 1 - 博多弁少女と「留守番電話」.flac
-    - 2 - 博多弁少女と「おかえりなさい」.flac
-    - 3 - 博多弁少女と「耳かき」.flac
-    - 4 - 博多弁少女と「おやすみ」.flac
-    - 5 - 博多弁少女と「おはよう」.flac
-    - 6 - 博多弁少女と「いってらっしゃい」.flac
+    - 01-博多弁少女と「留守番電話」.flac
+    - 02-博多弁少女と「おかえりなさい」.flac
+    - 03-博多弁少女と「耳かき」.flac
+    - 04-博多弁少女と「おやすみ」.flac
+    - 05-博多弁少女と「おはよう」.flac
+    - 06-博多弁少女と「いってらっしゃい」.flac
 - 涼宮ハルヒ(CV.平野綾)
   - Imaginary ENOZ featuring HARUHI
-    - Disc 1 - 01 - Star way to heaven.flac
-    - Disc 1 - 02 - Secret of sensation.flac
-    - Disc 1 - 03 - When I was in love.flac
-    - Disc 1 - 04 - God knows….flac
-    - Disc 1 - 05 - Lost my music.flac
-    - Disc 1 - 06 - First Good-Bye.flac
+    - 01-Star way to heaven.flac
+    - 02-Secret of sensation.flac
+    - 03-When I was in love.flac
+    - 04-God knows….flac
+    - 05-Lost my music.flac
+    - 06-First Good-Bye.flac
 - 田所あずさ
   - RESOLVE [アーティスト盤]
     - 01-RESOLVE.flac
@@ -3773,95 +3843,95 @@
     - 39-普通最高.flac
 - 神前暁、Kevin Penkin、桶狭間ありさ
   - TVアニメ 薬屋のひとりごと オリジナル・サウンドトラック
-    - Disc 1 - 01 - 薬屋.flac
-    - Disc 1 - 02 - 輝く心.flac
-    - Disc 1 - 03 - やり手婆.flac
-    - Disc 1 - 04 - 侍女.flac
-    - Disc 1 - 05 - 後宮.flac
-    - Disc 1 - 06 - 毒見役.flac
-    - Disc 1 - 07 - 知的欲求.flac
-    - Disc 1 - 08 - かみ合わない.flac
-    - Disc 1 - 09 - 同情.flac
-    - Disc 1 - 10 - 猫猫の日常.flac
-    - Disc 1 - 11 - 状況把握.flac
-    - Disc 1 - 12 - 妃教育.flac
-    - Disc 1 - 13 - 恫喝.flac
-    - Disc 1 - 14 - いつでも帰っておいで.flac
-    - Disc 1 - 15 - お茶会.flac
-    - Disc 1 - 16 - 園遊会.flac
-    - Disc 1 - 17 - 蜂蜜.flac
-    - Disc 1 - 18 - 検証.flac
-    - Disc 1 - 19 - ハマギク.flac
-    - Disc 1 - 20 - 分析.flac
-    - Disc 1 - 21 - ホトトギス.flac
-    - Disc 1 - 22 - 秘めた意思.flac
-    - Disc 1 - 23 - 観察.flac
-    - Disc 1 - 24 - 明日を訪ねて.flac
-    - Disc 1 - 25 - 私はただの女官.flac
-    - Disc 1 - 26 - 雪中花.flac
-    - Disc 1 - 27 - 片喰.flac
-    - Disc 1 - 28 - ハナズオウ.flac
-    - Disc 1 - 29 - 枯れた薔薇.flac
-    - Disc 1 - 30 - 鳳仙花.flac
-    - Disc 1 - 31 - 身請け.flac
-    - Disc 1 - 32 - 蒼空の炎.flac
-    - Disc 1 - 33 - 想い咲く時.flac
-    - Disc 2 - 01 - Echo.flac
-    - Disc 2 - 02 - The Crystal Pavilion.flac
-    - Disc 2 - 03 - Pizz Comedy.flac
-    - Disc 2 - 04 - The March Of Events.flac
-    - Disc 2 - 05 - Sadness.flac
-    - Disc 2 - 06 - Horror Gong.flac
-    - Disc 2 - 07 - Cold.flac
-    - Disc 2 - 08 - Cold Marble.flac
-    - Disc 2 - 09 - Violet.flac
-    - Disc 2 - 10 - Winter Fruit.flac
-    - Disc 2 - 11 - Colore.flac
-    - Disc 2 - 12 - Renge Azalea - Hulusi -.flac
-    - Disc 2 - 13 - Echo II.flac
-    - Disc 2 - 14 - j’accuse!.flac
-    - Disc 2 - 15 - My Hometown.flac
-    - Disc 2 - 16 - Blue Rose.flac
-    - Disc 2 - 17 - Let Me Die.flac
-    - Disc 2 - 18 - Thousands.flac
-    - Disc 3 - 01 - 緑青館.flac
-    - Disc 3 - 02 - 毒.flac
-    - Disc 3 - 03 - 噂話.flac
-    - Disc 3 - 04 - 事件.flac
-    - Disc 3 - 05 - 女子会.flac
-    - Disc 3 - 06 - 芙蓉.flac
-    - Disc 3 - 07 - 調査.flac
-    - Disc 3 - 08 - 想風.flac
-    - Disc 3 - 09 - 困りごと.flac
-    - Disc 3 - 10 - 剣舞.flac
-    - Disc 3 - 11 - 晴れない心.flac
-    - Disc 3 - 12 - 人影.flac
-    - Disc 3 - 13 - 南天.flac
-    - Disc 3 - 14 - 蓮華躑躅.flac
-    - Disc 3 - 15 - 妓女のお仕事.flac
-    - Disc 3 - 16 - 花街.flac
-    - Disc 3 - 17 - 進展.flac
-    - Disc 3 - 18 - 白いサザンカ.flac
-    - Disc 3 - 19 - 栗の木.flac
-    - Disc 3 - 20 - シャコバサボテン.flac
-    - Disc 3 - 21 - 曼荼羅華.flac
-    - Disc 3 - 22 - 梅.flac
-    - Disc 3 - 23 - 李白の想い.flac
-    - Disc 3 - 24 - 春牡丹.flac
-    - Disc 3 - 25 - 夢のよう.flac
-    - Disc 3 - 26 - 毒見役の少女.flac
+    - 01-Echo.flac
+    - 01-緑青館.flac
+    - 01-薬屋.flac
+    - 02-The Crystal Pavilion.flac
+    - 02-毒.flac
+    - 02-輝く心.flac
+    - 03-Pizz Comedy.flac
+    - 03-やり手婆.flac
+    - 03-噂話.flac
+    - 04-The March Of Events.flac
+    - 04-事件.flac
+    - 04-侍女.flac
+    - 05-Sadness.flac
+    - 05-女子会.flac
+    - 05-後宮.flac
+    - 06-Horror Gong.flac
+    - 06-毒見役.flac
+    - 06-芙蓉.flac
+    - 07-Cold.flac
+    - 07-知的欲求.flac
+    - 07-調査.flac
+    - 08-Cold Marble.flac
+    - 08-かみ合わない.flac
+    - 08-想風.flac
+    - 09-Violet.flac
+    - 09-同情.flac
+    - 09-困りごと.flac
+    - 10-Winter Fruit.flac
+    - 10-剣舞.flac
+    - 10-猫猫の日常.flac
+    - 11-Colore.flac
+    - 11-晴れない心.flac
+    - 11-状況把握.flac
+    - 12-Renge Azalea - Hulusi -.flac
+    - 12-人影.flac
+    - 12-妃教育.flac
+    - 13-Echo II.flac
+    - 13-南天.flac
+    - 13-恫喝.flac
+    - 14-j’accuse!.flac
+    - 14-いつでも帰っておいで.flac
+    - 14-蓮華躑躅.flac
+    - 15-My Hometown.flac
+    - 15-お茶会.flac
+    - 15-妓女のお仕事.flac
+    - 16-Blue Rose.flac
+    - 16-園遊会.flac
+    - 16-花街.flac
+    - 17-Let Me Die.flac
+    - 17-蜂蜜.flac
+    - 17-進展.flac
+    - 18-Thousands.flac
+    - 18-検証.flac
+    - 18-白いサザンカ.flac
+    - 19-ハマギク.flac
+    - 19-栗の木.flac
+    - 20-シャコバサボテン.flac
+    - 20-分析.flac
+    - 21-ホトトギス.flac
+    - 21-曼荼羅華.flac
+    - 22-梅.flac
+    - 22-秘めた意思.flac
+    - 23-李白の想い.flac
+    - 23-観察.flac
+    - 24-明日を訪ねて.flac
+    - 24-春牡丹.flac
+    - 25-夢のよう.flac
+    - 25-私はただの女官.flac
+    - 26-毒見役の少女.flac
+    - 26-雪中花.flac
+    - 27-片喰.flac
+    - 28-ハナズオウ.flac
+    - 29-枯れた薔薇.flac
+    - 30-鳳仙花.flac
+    - 31-身請け.flac
+    - 32-蒼空の炎.flac
+    - 33-想い咲く時.flac
 - 竹達彩奈
   - Innocent Notes
-    - Disc 1 - 01 - Innocent Notes.flac
-    - Disc 1 - 02 - 年中・愛は・無休.flac
-    - Disc 1 - 03 - Innocent Notes (TV size Ver.).flac
-    - Disc 1 - 04 - Innocent Notes (Instrumental).flac
-    - Disc 1 - 05 - 年中・愛は・無休 (Instrumental).flac
+    - 01-Innocent Notes.flac
+    - 02-年中・愛は・無休.flac
+    - 03-Innocent Notes (TV size Ver.).flac
+    - 04-Innocent Notes (Instrumental).flac
+    - 05-年中・愛は・無休 (Instrumental).flac
   - Little*Lion*Heart
-    - Disc 1 - 01 - Little*Lion*Heart.flac
-    - Disc 1 - 02 - キミイロ モノローグ.flac
-    - Disc 1 - 03 - Little*Lion*Heart (Instrumental).flac
-    - Disc 1 - 04 - キミイロ モノローグ (Instrumental).flac
+    - 01-Little*Lion*Heart.flac
+    - 02-キミイロ モノローグ.flac
+    - 03-Little*Lion*Heart (Instrumental).flac
+    - 04-キミイロ モノローグ (Instrumental).flac
   - Miss. Revolutionist
     - 01-Miss. Revolutionist.flac
     - 02-らっきーちゅーん♪.flac
@@ -3873,21 +3943,21 @@
     - 03-Sinfonia! Sinfonia!!! (Instrumental).flac
     - 04-Strawberry☆Kiss (Instrumental).flac
   - ♪の国のアリス
-    - Disc 1 - 01 - ♪の国のアリス.flac
-    - Disc 1 - 02 - CANDY LOVE.flac
-    - Disc 1 - 03 - ♪の国のアリス (Instrumental).flac
-    - Disc 1 - 04 - CANDY LOVE (Instrumental).flac
+    - 01-♪の国のアリス.flac
+    - 02-CANDY LOVE.flac
+    - 03-♪の国のアリス (Instrumental).flac
+    - 04-CANDY LOVE (Instrumental).flac
   - 明日のカタチ
-    - Disc 1 - 01 - 明日のカタチ.flac
-    - Disc 1 - 02 - Endless Symphony.flac
-    - Disc 1 - 03 - 明日のカタチ TV size ver..flac
-    - Disc 1 - 04 - 明日のカタチ Instrumental.flac
-    - Disc 1 - 05 - Endless Symphony Instrumental.flac
+    - 01-明日のカタチ.flac
+    - 02-Endless Symphony.flac
+    - 03-明日のカタチ TV size ver..flac
+    - 04-明日のカタチ Instrumental.flac
+    - 05-Endless Symphony Instrumental.flac
   - 週末シンデレラ
-    - Disc 1 - 01 - 週末シンデレラ.flac
-    - Disc 1 - 02 - マシュマロ.flac
-    - Disc 1 - 03 - 週末シンデレラ (Instrumental).flac
-    - Disc 1 - 04 - マシュマロ (Instrumental).flac
+    - 01-週末シンデレラ.flac
+    - 02-マシュマロ.flac
+    - 03-週末シンデレラ (Instrumental).flac
+    - 04-マシュマロ (Instrumental).flac
 - 米津玄師
   - KICK BACK
     - 01-KICK BACK.flac
@@ -3944,6 +4014,15 @@
     - 02-main actor.flac
     - 03-ライラック.flac
     - 04-Prologue.flac
+- 美雲このは
+  - ConoHa
+    - 01-Little Dreamer -Future Happy Remix-.flac
+    - 02-クロワッサン -EasyPop Remix-.flac
+    - 03-Docking-Heart -騒やかROCK MIX-.flac
+    - 04-Realize -Jumpin Remix-.flac
+    - 05-空色Drops -Rainyスクランブル-.flac
+    - 06-Bluetopia -Rocket Chip mix-.flac
+    - 07-Bonus Track. UP TO YOU -Up Lift Remix-.flac
 - 花澤香菜
   - ココベース
     - 01-マイ・ソング.flac
@@ -3970,10 +4049,10 @@
     - 03-虹のそら.flac
     - 04-初恋ノオト (Instrumental).flac
   - 春に愛されるひとに わたしはなりたい
-    - Disc 1 - 01 - 春に愛されるひとに わたしはなりたい.flac
-    - Disc 1 - 02 - ひなたのしらべ.flac
-    - Disc 1 - 03 - 夜は伸びる.flac
-    - Disc 1 - 04 - 春に愛されるひとに わたしはなりたい (Instrumental).flac
+    - 01-春に愛されるひとに わたしはなりたい.flac
+    - 02-ひなたのしらべ.flac
+    - 03-夜は伸びる.flac
+    - 04-春に愛されるひとに わたしはなりたい (Instrumental).flac
 - 豊崎愛生
   - love your Best
     - 01-一千年の散歩中.flac
@@ -4013,16 +4092,16 @@
     - 11-ねじこ.flac
 - 鈴木愛理
   - 28-29
-    - Disc 1 - 01 - 最強の推し！.flac
-    - Disc 1 - 02 - ハートはお手上げ.flac
-    - Disc 1 - 03 - heart notes.flac
-    - Disc 1 - 04 - ONE DAY.flac
-    - Disc 1 - 05 - shampoo (春野 Remix).flac
-    - Disc 1 - 06 - 恋におちたら.flac
-    - Disc 1 - 07 - Pink Shadow (28-29 Ver.).flac
-    - Disc 1 - 08 - 空は二度燃える (28-29 Ver.).flac
-    - Disc 1 - 09 - 平等なメロディ.flac
-    - Disc 1 - 10 - 光.flac
+    - 01-最強の推し！.flac
+    - 02-ハートはお手上げ.flac
+    - 03-heart notes.flac
+    - 04-ONE DAY.flac
+    - 05-shampoo (春野 Remix).flac
+    - 06-恋におちたら.flac
+    - 07-Pink Shadow (28-29 Ver.).flac
+    - 08-空は二度燃える (28-29 Ver.).flac
+    - 09-平等なメロディ.flac
+    - 10-光.flac
 - 雨宮天
   - Defiance
     - 01-Defiance.flac
@@ -4037,19 +4116,19 @@
     - 02-SOS.flac
     - 03-Love-Evidence (Instrumental).flac
   - Paint it, BLUE
-    - Disc 1 - 01 - Paint it, BLUE -overture-.flac
-    - Disc 1 - 02 - Fluegel.flac
-    - Disc 1 - 03 - Defiance.flac
-    - Disc 1 - 04 - Catharsis.flac
-    - Disc 1 - 05 - Queen no’ cry.flac
-    - Disc 1 - 06 - VIPER.flac
-    - Disc 1 - 07 - 火花.flac
-    - Disc 1 - 08 - Next Dimension.flac
-    - Disc 1 - 09 - PARADOX.flac
-    - Disc 1 - 10 - Song for.flac
-    - Disc 1 - 11 - 蒼天のシンフォニア.flac
-    - Disc 1 - 12 - Regeneration.flac
-    - Disc 1 - 13 - 雨の糸.flac
+    - 01-Paint it, BLUE -overture-.flac
+    - 02-Fluegel.flac
+    - 03-Defiance.flac
+    - 04-Catharsis.flac
+    - 05-Queen no’ cry.flac
+    - 06-VIPER.flac
+    - 07-火花.flac
+    - 08-Next Dimension.flac
+    - 09-PARADOX.flac
+    - 10-Song for.flac
+    - 11-蒼天のシンフォニア.flac
+    - 12-Regeneration.flac
+    - 13-雨の糸.flac
   - PARADOX
     - 01-PARADOX.flac
     - 02-一番星.flac
@@ -4089,10 +4168,10 @@
     - 02-BLUE BLUES.flac
     - 03-永遠のAria (Instrumental).flac
   - 衝天
-    - Disc 1 - 01 - 衝天.flac
-    - Disc 1 - 02 - Oh, it’s so dreamy!.flac
-    - Disc 1 - 03 - 衝天 (Instrumental).flac
-    - Disc 1 - 04 - Oh, it’s so dreamy! (Instrumental).flac
+    - 01-衝天.flac
+    - 02-Oh, it’s so dreamy!.flac
+    - 03-衝天 (Instrumental).flac
+    - 04-Oh, it’s so dreamy! (Instrumental).flac
   - 雨宮天 BEST ALBUM - BLUE -
     - 01-This Hope.flac
     - 02-Skyreach.flac
@@ -4123,6 +4202,12 @@
     - 12-VIPER.flac
     - 13-フリイジア.flac
     - 14-誓い.flac
+- 青ブタ
+  - 不可思議のカルテ
+    - 01-不可思議のカルテ.flac
+    - 02-BABY!.flac
+    - 03-不可思議のカルテ -Instrumental-.flac
+    - 04-BABY! -Instrumental-.flac
 - 高橋李依
   - 透明な付箋
     - 01-カメレオンシンドローム.flac
@@ -4145,12 +4230,12 @@
     - 04-No Continue.flac
     - 05-V!vace.flac
   - Swinging Heart
-    - Disc 1 - 01 - Swinging Heart.flac
-    - Disc 1 - 02 - dear my distance.flac
-    - Disc 1 - 03 - Always Going My Way.flac
-    - Disc 1 - 04 - Swinging Heart (instrumental).flac
-    - Disc 1 - 05 - dear my distance (instrumental).flac
-    - Disc 1 - 06 - Always Going My Way (instrumental).flac
+    - 01-Swinging Heart.flac
+    - 02-dear my distance.flac
+    - 03-Always Going My Way.flac
+    - 04-Swinging Heart (instrumental).flac
+    - 05-dear my distance (instrumental).flac
+    - 06-Always Going My Way (instrumental).flac
   - キミのとなりで
     - 01-キミのとなりで.flac
     - 02-Dive to World.flac
@@ -4159,10 +4244,10 @@
     - 05-Dive to World (Instrumental).flac
     - 06-トウメイナユメ (Instrumental).flac
   - みちくさ
-    - Disc 1 - 01 - みちくさ.flac
-    - Disc 1 - 02 - 晴れ待ちノオト.flac
-    - Disc 1 - 03 - みちくさ (instrumental).flac
-    - Disc 1 - 04 - 晴れ待ちノオト (instrumental).flac
+    - 01-みちくさ.flac
+    - 02-晴れ待ちノオト.flac
+    - 03-みちくさ (instrumental).flac
+    - 04-晴れ待ちノオト (instrumental).flac
 - 麻倉もも
   - 365 x LOVE
     - 01-365 x LOVE.flac
