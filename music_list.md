@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/08/31 19:43
+###### updated on 2024/09/03 21:51
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -1456,6 +1456,15 @@
     - 02-BraveSail.flac
     - 03-センパイ。 [Instrumental].flac
     - 04-BraveSail [Instrumental].flac
+- i-Ris
+  - Let you know-あっぱれ-馬鹿騒ぎ
+    - 01-Let you know.flac
+    - 02-あっぱれ-馬鹿騒ぎ.flac
+    - 03-Queens Bluff –TeddyLoid Remix–.flac
+    - 04-Let you know -Instrumental-.flac
+    - 05-あっぱれ-馬鹿騒ぎ –Instrumental–.flac
+    - 06-Let you know -Off Main Vocal-.flac
+    - 07-あっぱれ-馬鹿騒ぎ –Off Main Vocal–.flac
 - ITZY
   - GUESS WHO [EP]
     - 01-In the morning.flac
@@ -2916,20 +2925,6 @@
     - 23-また あした.flac
     - 24-and I’m home -Original Master Version.-.flac
     - 25-コネクト -ゲームインスト-.flac
-- ZUTOMAYO
-  - 正しい偽りからの起床
-    - 01-秒針を噛む.flac
-    - 02-ヒューマノイド.flac
-    - 03-サターン.flac
-    - 04-雲丹と栗.flac
-    - 05-脳裏上のクラッカー.flac
-    - 06-君がいて水になる.flac
-    - 07-秒針を噛む (Instrumental).flac
-    - 08-ヒューマノイド (Instrumental).flac
-    - 09-サターン (Instrumental).flac
-    - 10-雲丹と栗 (Instrumental).flac
-    - 11-脳裏上のクラッカー (Instrumental).flac
-    - 12-君がいて水になる (Instrumental).flac
 - あいみょん
   - おいしいパスタがあると聞いて
     - 01-黄昏にバカ話をしたあの日を思い出す時を.flac
@@ -3112,6 +3107,18 @@
     - 12-アノニマス.flac
     - 13-夏.flac
     - 14-birthday Song.flac
+  - 酸欠少女
+    - 01-酸欠少女.flac
+    - 02-花の塔.flac
+    - 03-航海の唄.flac
+    - 04-DAWN DANCE.flac
+    - 05-世界の秘密.flac
+    - 06-葵橋.flac
+    - 07-月と花束.flac
+    - 08-かみさま.flac
+    - 09-summer bug.flac
+    - 10-レイメイ.flac
+    - 11-ねじこ.flac
 - しぐれうい
   - まだ雨はやまない
     - 01-シンカケイスケッチ.flac
@@ -3137,6 +3144,19 @@
     - 02-愛のシュプリーム! (スーパーちょろゴンず ver.).flac
     - 03-めいど・うぃず・どらごんず♥ (off vocal).flac
 - ずっと真夜中でいいのに。
+  - 正しい偽りからの起床
+    - 01-秒針を噛む.flac
+    - 02-ヒューマノイド.flac
+    - 03-サターン.flac
+    - 04-雲丹と栗.flac
+    - 05-脳裏上のクラッカー.flac
+    - 06-君がいて水になる.flac
+    - 07-秒針を噛む (Instrumental).flac
+    - 08-ヒューマノイド (Instrumental).flac
+    - 09-サターン (Instrumental).flac
+    - 10-雲丹と栗 (Instrumental).flac
+    - 11-脳裏上のクラッカー (Instrumental).flac
+    - 12-君がいて水になる (Instrumental).flac
   - 沈香学
     - 01-花一匁.flac
     - 01-花一匁(inst.).flac
@@ -3552,6 +3572,11 @@
     - 02-ビロードの幕.flac
     - 03-帰る場所があるということ (Instrumental).flac
     - 04-ビロードの幕 (Instrumental).flac
+  - 永遠ラビリンス
+    - 01-永遠ラビリンス.flac
+    - 02-ハツジョウジカケラブゲーム.flac
+    - 03-永遠ラビリンス(Instrumental).flac
+    - 04-ハツジョウジカケラブゲーム(Instrumental).flac
 - 戌亥とこ
   - Telescope
     - 01-テレスコープ.flac
@@ -4077,19 +4102,6 @@
     - 02-BLUE.flac
     - 03-LOVE [Instrumental].flac
     - 04-BLUE [Instrumental].flac
-- 酸欠少女さゆり
-  - 酸欠少女
-    - 01-酸欠少女.flac
-    - 02-花の塔.flac
-    - 03-航海の唄.flac
-    - 04-DAWN DANCE.flac
-    - 05-世界の秘密.flac
-    - 06-葵橋.flac
-    - 07-月と花束.flac
-    - 08-かみさま.flac
-    - 09-summer bug.flac
-    - 10-レイメイ.flac
-    - 11-ねじこ.flac
 - 鈴木愛理
   - 28-29
     - 01-最強の推し！.flac
