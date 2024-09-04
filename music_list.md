@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/09/03 21:51
+###### updated on 2024/09/04 22:52
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -2821,6 +2821,22 @@
     - 04-Vanilla Sugar Killer.flac
     - 05-Overdrive.flac
     - 06-So Special.flac
+- Vocaloid
+  - Digital Trax presents VOCALO★POPS BEST feat. 初音ミク
+    - 01-サイハテ.flac
+    - 02-サンドリヨン.flac
+    - 03-炉心融解.flac
+    - 04-右肩の蝶.flac
+    - 05-ネトゲ廃人シュプレヒコール.flac
+    - 06-パンツ脱げるもん!.flac
+    - 07-anger (11 RMX).flac
+    - 08-よつばのクローバー.flac
+    - 09-SING＆SMILE (VOCALO POPS mix).flac
+    - 10-CRAZY GiRL.flac
+    - 11-モノクロアクト.flac
+    - 12-transient future.flac
+    - 13-カンタレラ.flac
+    - 14-ココロ.flac
 - wacci
   - 愛は薬
     - 01-愛は薬.flac
@@ -3265,12 +3281,24 @@
     - 07-雷火 (Dr Less Version).flac
     - 08-雷火 (TV Size Version).flac
 - やなぎなぎ
+  - ユキトキ
+    - 01-ユキトキ.flac
+    - 02-音のない夢.flac
+    - 03-Surréalisme.flac
+    - 04-ユキトキ <instrumental>.flac
+    - 05-音のない夢 <instrumental>.flac
+    - 06-Surréalisme <instrumental>.flac
   - ユキハルアメ
     - 01-ユキハルアメ.flac
     - 02-ユキトキ (TV size).flac
     - 03-春擬き (TV size).flac
     - 04-芽ぐみの雨 (TV size).flac
     - 05-ユキハルアメ [instrumental].flac
+  - 春擬き
+    - 01-春擬き.flac
+    - 02-鱗翅目標本.flac
+    - 03-春擬き <instrumental>.flac
+    - 04-鱗翅目標本 <instrumental>.flac
   - 芽ぐみの雨
     - 01-芽ぐみの雨.flac
     - 02-彼は誰星.flac
