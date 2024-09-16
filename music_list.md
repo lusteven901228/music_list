@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/09/04 22:52
+###### updated on 2024/09/17 03:48
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -1799,6 +1799,49 @@
   - アイウエ - トウキョウ・シャンディ・ランデヴ
     - 01-アイウエ.flac
     - 02-トウキョウ・シャンディ・ランデヴ.flac
+- marasy
+  - 幻想遊戯 Piano Collection ～ Museum of Marasy
+    - 01-ネイティブフェイス.flac
+    - 01-明日ハレの日、ケの昨日.flac
+    - 02-上海紅茶館 ～ Chinese Tea.flac
+    - 02-風神少女.flac
+    - 03-亡き王女の為のセプテット.flac
+    - 03-遠野幻想物語.flac
+    - 04-幽雅に咲かせ、墨染の桜 ～ Border of Life.flac
+    - 04-春の湊に.flac
+    - 05-千年幻想郷 ～ History of the Moon.flac
+    - 05-神々が恋した幻想郷.flac
+    - 06-フォールオブフォール ～ 秋めく滝.flac
+    - 06-フラワリングナイト.flac
+    - 07-アンロケイテッドヘル.flac
+    - 07-少女さとり ～ 3rd eye.flac
+    - 08-幻想のホワイトトラベラー.flac
+    - 08-星条旗のピエロ.flac
+    - 09-デザイアドライブ.flac
+    - 09-感情の摩天楼 ～ Cosmic Mind.flac
+    - 10-六十年目の東方裁判 ～ Fate of Sixty Years.flac
+    - 10-故郷の星が映る海.flac
+    - 11-輝く針の小人族 ～ Little Princess.flac
+    - 11-魔法少女達の百年祭.flac
+    - 12-ラストリモート.flac
+    - 12-龍王殺しのプリンセス.flac
+    - 13-偶像に世界を委ねて ～ Idoratrize World.flac
+    - 13-妖々跋扈.flac
+    - 14-U.N.オーエンは彼女なのか？.flac
+    - 14-紅楼 ～ Eastern Dream....flac
+  - 幻想遊戯演奏会 2022
+    - 01-開演.flac
+    - 02-幻想遊戯演奏会2022.flac
+    - 03-風神録3面4面メドレー.flac
+    - 04-文花帖メドレー.flac
+    - 05-Demystify Feast(萃夢想) ～ 砕月(萃夢想).flac
+    - 06-デザイアドライブ(神霊廟) ～ 天空の花の都(妖々夢).flac
+    - 07-自機組スペシャルメドレー.flac
+    - 08-ピュアヒューリーズ ～ 心の在処(紺珠伝) ～ 亡き王女のためのセプテット(紅魔郷).flac
+    - 09-月まで届け、不死の煙(永夜抄) ～ U.N.オーエンは彼女なのか？(紅魔郷).flac
+    - 10-ネイティブフェイス(風神録).flac
+  - 幻想遊戯＜連＞ ～ Museum of marasy
+    - 01-幻想遊戯＜連＞ 100曲メドレー.flac
 - milet
   - Anytime Anywhere [期間生産限定盤]
     - 01-Anytime Anywhere.flac
@@ -3284,10 +3327,10 @@
   - ユキトキ
     - 01-ユキトキ.flac
     - 02-音のない夢.flac
-    - 03-Surréalisme.flac
-    - 04-ユキトキ <instrumental>.flac
-    - 05-音のない夢 <instrumental>.flac
-    - 06-Surréalisme <instrumental>.flac
+    - 03-Surrealisme.flac
+    - 04-ユキトキ -instrumental-.flac
+    - 05-音のない夢 -instrumental-.flac
+    - 06-Surrealisme-instrumental-.flac
   - ユキハルアメ
     - 01-ユキハルアメ.flac
     - 02-ユキトキ (TV size).flac
@@ -3297,8 +3340,8 @@
   - 春擬き
     - 01-春擬き.flac
     - 02-鱗翅目標本.flac
-    - 03-春擬き <instrumental>.flac
-    - 04-鱗翅目標本 <instrumental>.flac
+    - 03-春擬き -instrumental-.flac
+    - 04-鱗翅目標本 -instrumental-.flac
   - 芽ぐみの雨
     - 01-芽ぐみの雨.flac
     - 02-彼は誰星.flac
