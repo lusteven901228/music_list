@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/09/17 03:48
+###### updated on 2024/10/09 01:34
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -990,7 +990,16 @@
     - 06-Raining.flac
     - 07-糸.flac
     - 08-花束のかわりにメロディーを.flac
+- Aimyon
+  - 猫にジェラシー
 - AKB48
+  - ジャーバージャ[Type E]
+    - 01-AKB48 - ジャーバージャ.flac
+    - 02-AKB48若手選抜 - Position.flac
+    - 03-坂道AKB - 国境のない時代.flac
+    - 04-AKB48 - ジャーバージャ（off vocal ver.）.flac
+    - 05-AKB48若手選抜 - Position（off vocal ver.）.flac
+    - 06-坂道AKB - 国境のない時代（off vocal ver.）.flac
   - 僕たちは、あの日の夜明けを知っている
     - 01-シュートサイン.flac
     - 03-悲しい歌を聴きたくなった.flac
@@ -1949,6 +1958,13 @@
     - 07-Daydreamer (Instrumental).flac
     - 08-Goodbye Myself (Instrumental).flac
 - OH MY GIRL
+  - Dreamy Resonance
+    - 01-Classified.flac
+    - 02-Start Up.flac
+    - 03-La La La La.flac
+    - 04-Sway (YOU & I).flac
+    - 05-Love Me Like You Do.flac
+    - 06-Heavenly.flac
   - Golden Hourglass EP
     - 01-Celebrate.flac
     - 02-Summer Comes.flac
@@ -2561,6 +2577,14 @@
     - 04-New New.flac
     - 05-Bloom.flac
     - 06-You Get Me.flac
+- Tzuyu
+  - abouTZU
+    - 01-Run Away.flac
+    - 02-Heartbreak in Heaven.flac
+    - 03-Lazy Baby.flac
+    - 04-Losing Sleep.flac
+    - 05-One Love.flac
+    - 06-Fly.flac
 - Uru
   - remember
     - 01-remember.flac
@@ -2998,6 +3022,20 @@
     - 10-ポプリの葉.flac
     - 11-チカ.flac
     - 12-そんな風に生きている.flac
+  - 猫にジェラシー
+    - 01-私に見せてよ.flac
+    - 02-会いに行くのに.flac
+    - 03-ラッキーカラー.flac
+    - 04-駅前喫茶ポプラ.flac
+    - 05-あのね.flac
+    - 06-ノット・オーケー.flac
+    - 07-リズム64.flac
+    - 08-炎曜日.flac
+    - 09-偽者.flac
+    - 10-朝が嫌い.flac
+    - 11-ざらめ.flac
+    - 12-愛の花.flac
+    - 13-猫にジェラシー.flac
   - 瞬間的シックスセンス
     - 01-満月の夜なら.flac
     - 02-マリーゴールド.flac
@@ -3049,6 +3087,15 @@
     - 09-マリーゴールド (弾き語りver.).flac
     - 10-青春と青春と青春 (弾き語りver.).flac
 - あたらよ
+  - 朝露は木漏れ日に溶けて
+    - 01-「僕は...」.flac
+    - 02-明け方の夏.flac
+    - 03-リフレイン.flac
+    - 04-realize.flac
+    - 05-少年、風薫る.flac
+    - 06-君と.flac
+    - 07-光れ.flac
+    - 08-「僕は...」(Piano ver.).flac
   - 極夜において月は語らず
     - 01-交差点.flac
     - 02-夏霞.flac
@@ -3133,6 +3180,24 @@
     - 02-Baby Monster.flac
     - 03-戦略的で予測不能なラブコメディのエンディング曲 (instrumental).flac
     - 04-Baby Monster (instrumental).flac
+- けやき坂46
+  - 走り出す瞬間[通常盤]
+    - 01-ひらがなけやき.flac
+    - 02-誰よりも高く跳べ!.flac
+    - 03-僕たちは付き合っている.flac
+    - 04-W-KEYAKIZAKAの詩.flac
+    - 05-永遠の白線.flac
+    - 06-沈黙した恋人よ.flac
+    - 07-それでも歩いてる.flac
+    - 08-NO WAR in the future.flac
+    - 09-イマニミテイロ.flac
+    - 10-半分の記憶.flac
+    - 11-期待していない自分.flac
+    - 12-三輪車に乗りたい.flac
+    - 13-こんな整列を誰がさせるのか?.flac
+    - 14-居心地悪く、大人になった.flac
+    - 15-割れないシャボン玉.flac
+    - 16-ひらがなで恋したい.flac
 - このすば
   - あの日のままのぼくら
     - 01-あの日のままのぼくら.flac
@@ -3463,6 +3528,619 @@
     - 02-through the looking glass.flac
     - 03-続く世界 -Instrumental-.flac
     - 04-空色デイズ -spiral chiptune mix-.flac
+- 乃木坂46
+  - Sing Out![Type A]
+    - 01-Sing Out!.flac
+    - 02-滑走路.flac
+    - 03-のような存在.flac
+    - 04-Sing Out! -off vocal ver.-.flac
+    - 05-滑走路 -off vocal ver.-.flac
+    - 06-のような存在 -off vocal ver.-.flac
+  - Sing Out![Type B]
+    - 01-Sing Out!.flac
+    - 02-滑走路.flac
+    - 03-Am I Loving?.flac
+    - 04-Sing Out! -off vocal ver.-.flac
+    - 05-滑走路 -off vocal ver.-.flac
+    - 06-Am I Loving? -off vocal ver.-.flac
+  - Sing Out![Type C]
+    - 01-Sing Out!.flac
+    - 02-滑走路.flac
+    - 03-平行線.flac
+    - 04-Sing Out! -off vocal ver.-.flac
+    - 05-滑走路 -off vocal ver.-.flac
+    - 06-平行線 -off vocal ver.-.flac
+  - Sing Out![Type D]
+    - 01-Sing Out!.flac
+    - 02-滑走路.flac
+    - 03-4番目の光.flac
+    - 04-Sing Out! -off vocal ver.-.flac
+    - 05-滑走路 -off vocal ver.-.flac
+    - 06-4番目の光 -off vocal ver.-.flac
+  - いつかできるから今日できる[Type A]
+    - 01-いつかできるから今日できる.flac
+    - 02-不眠症.flac
+    - 03-まあいいか？.flac
+    - 04-いつかできるから今日できる〜off vocal ver.〜.flac
+    - 05-不眠症〜off vocal ver.〜.flac
+    - 06-まあいいか？〜off vocal ver.〜.flac
+  - いつかできるから今日できる[Type B]
+    - 01-いつかできるから今日できる.flac
+    - 02-不眠症.flac
+    - 03-失恋お掃除人.flac
+    - 04-いつかできるから今日できる〜off vocal ver.〜.flac
+    - 05-不眠症〜off vocal ver.〜.flac
+    - 06-失恋お掃除人〜off vocal ver.〜.flac
+  - いつかできるから今日できる[Type C]
+    - 01-いつかできるから今日できる.flac
+    - 02-不眠症.flac
+    - 03-My rule.flac
+    - 04-いつかできるから今日できる〜off vocal ver.〜.flac
+    - 05-不眠症〜off vocal ver.〜.flac
+    - 06-My rule〜off vocal ver.〜.flac
+  - いつかできるから今日できる[Type D]
+    - 01-いつかできるから今日できる.flac
+    - 02-不眠症.flac
+    - 03-僕の衝動.flac
+    - 04-いつかできるから今日できる〜off vocal ver.〜.flac
+    - 05-不眠症〜off vocal ver.〜.flac
+    - 06-僕の衝動〜off vocal ver.〜.flac
+  - いつかできるから今日できる[通常盤]
+    - 01-いつかできるから今日できる.flac
+    - 02-不眠症.flac
+    - 03-新しい花粉 〜ミュージカル「見知らぬ世界」より〜.flac
+    - 04-いつかできるから今日できる〜off vocal ver.〜.flac
+    - 05-不眠症〜off vocal ver.〜.flac
+    - 06-新しい花粉 〜ミュージカル「見知らぬ世界」より〜〜off vocal ver.〜.flac
+  - インフルエンサー[Type A]
+    - 01-インフルエンサー.flac
+    - 02-人生を考えたくなる.flac
+    - 03-意外BREAK.flac
+    - 04-インフルエンサー 〜off vocal ver.〜.flac
+    - 05-人生を考えたくなる 〜off vocal ver.〜.flac
+    - 06-意外BREAK 〜off vocal ver.〜.flac
+  - インフルエンサー[Type B]
+    - 01-インフルエンサー.flac
+    - 02-人生を考えたくなる.flac
+    - 03-Another Ghost.flac
+    - 04-インフルエンサー 〜off vocal ver.〜.flac
+    - 05-人生を考えたくなる 〜off vocal ver.〜.flac
+    - 06-Another Ghost 〜off vocal ver.〜.flac
+  - インフルエンサー[Type C]
+    - 01-インフルエンサー.flac
+    - 02-人生を考えたくなる.flac
+    - 03-風船は生きている.flac
+    - 04-インフルエンサー 〜off vocal ver.〜.flac
+    - 05-人生を考えたくなる 〜off vocal ver.〜.flac
+    - 06-風船は生きている 〜off vocal ver.〜.flac
+  - インフルエンサー[Type D]
+    - 01-インフルエンサー.flac
+    - 02-人生を考えたくなる.flac
+    - 03-三番目の風.flac
+    - 04-インフルエンサー 〜off vocal ver.〜.flac
+    - 05-人生を考えたくなる 〜off vocal ver.〜.flac
+    - 06-三番目の風 〜off vocal ver.〜.flac
+  - インフルエンサー[通常盤]
+    - 01-インフルエンサー.flac
+    - 02-人生を考えたくなる.flac
+    - 03-当たり障りのない話.flac
+    - 04-インフルエンサー 〜off vocal ver.〜.flac
+    - 05-人生を考えたくなる 〜off vocal ver.〜.flac
+    - 06-当たり障りのない話 〜off vocal ver.〜.flac
+  - おいでシャンプー[Type A]
+    - 01-おいでシャンプー.flac
+    - 02-心の薬.flac
+    - 03-偶然を言い訳にして.flac
+    - 04-おいでシャンプー (off vocal ver.).flac
+    - 05-心の薬 (off vocal ver.).flac
+    - 06-偶然を言い訳にして (off vocal ver.).flac
+  - おいでシャンプー[Type B]
+    - 01-おいでシャンプー.flac
+    - 02-心の薬.flac
+    - 03-水玉模様.flac
+    - 04-おいでシャンプー (off vocal ver.).flac
+    - 05-心の薬 (off vocal ver.).flac
+    - 06-水玉模様 (off vocal ver.).flac
+  - おいでシャンプー[Type C]
+    - 01-おいでシャンプー.flac
+    - 02-心の薬.flac
+    - 03-狼に口笛を.flac
+    - 04-おいでシャンプー (off vocal ver.).flac
+    - 05-心の薬 (off vocal ver.).flac
+    - 06-狼に口笛を (off vocal ver.).flac
+  - おいでシャンプー[通常盤]
+    - 01-おいでシャンプー.flac
+    - 02-心の薬.flac
+    - 03-ハウス!.flac
+    - 04-おいでシャンプー (off vocal ver.).flac
+    - 05-心の薬 (off vocal ver.).flac
+    - 06-ハウス! (off vocal ver.).flac
+  - ガールズルール[Type A]
+    - 01-ガールズルール.flac
+    - 02-世界で一番 孤独なLover.flac
+    - 03-コウモリよ.flac
+    - 04-ガールズルール (off vocal ver.).flac
+    - 05-世界で一番 孤独なLover (off vocal ver.).flac
+    - 06-コウモリよ (off vocal ver.).flac
+  - ガールズルール[Type B]
+    - 01-ガールズルール.flac
+    - 02-世界で一番 孤独なLover.flac
+    - 03-扇風機.flac
+    - 04-ガールズルール (off vocal ver.).flac
+    - 05-世界で一番 孤独なLover (off vocal ver.).flac
+    - 06-扇風機 (off vocal ver.).flac
+  - ガールズルール[Type C]
+    - 01-ガールズルール.flac
+    - 02-世界で一番 孤独なLover.flac
+    - 03-他の星から.flac
+    - 04-ガールズルール (off vocal ver.).flac
+    - 05-世界で一番 孤独なLover (off vocal ver.).flac
+    - 06-他の星から (off vocal ver.).flac
+  - ガールズルール[通常盤]
+    - 01-ガールズルール.flac
+    - 02-世界で一番 孤独なLover.flac
+    - 03-人間という楽器.flac
+    - 04-ガールズルール (off vocal ver.).flac
+    - 05-世界で一番 孤独なLover (off vocal ver.).flac
+    - 06-人間という楽器 (off vocal ver.).flac
+  - ぐるぐるカーテン
+    - 01-ぐるぐるカーテン.flac
+    - 02-左胸の勇気.flac
+    - 03-白い雲にのって.flac
+    - 04-ぐるぐるカーテン (off vocal ver.).flac
+    - 05-左胸の勇気 (off vocal ver.).flac
+    - 06-白い雲にのって (off vocal ver.).flac
+  - サヨナラの意味[Type A]
+    - 01-サヨナラの意味.flac
+    - 02-孤独な青空.flac
+    - 03-あの教室.flac
+    - 04-サヨナラの意味〜off vocal ver.〜.flac
+    - 05-孤独な青空〜off vocal ver.〜.flac
+    - 06-あの教室〜off vocal ver.〜.flac
+  - サヨナラの意味[Type B]
+    - 01-サヨナラの意味.flac
+    - 02-孤独な青空.flac
+    - 03-ブランコ.flac
+    - 04-サヨナラの意味〜off vocal ver.〜.flac
+    - 05-孤独な青空〜off vocal ver.〜.flac
+    - 06-ブランコ〜off vocal ver.〜.flac
+  - サヨナラの意味[Type C]
+    - 01-サヨナラの意味.flac
+    - 02-孤独な青空.flac
+    - 03-2度目のキスから.flac
+    - 04-サヨナラの意味〜off vocal ver.〜.flac
+    - 05-孤独な青空〜off vocal ver.〜.flac
+    - 06-2度目のキスから〜off vocal ver.〜.flac
+  - サヨナラの意味[Type D]
+    - 01-サヨナラの意味.flac
+    - 02-孤独な青空.flac
+    - 03-君に贈る花がない.flac
+    - 04-サヨナラの意味〜off vocal ver.〜.flac
+    - 05-孤独な青空〜off vocal ver.〜.flac
+    - 06-君に贈る花がない〜off vocal ver.〜.flac
+  - サヨナラの意味[通常盤]
+    - 01-サヨナラの意味.flac
+    - 02-孤独な青空.flac
+    - 03-ないものねだり.flac
+    - 04-サヨナラの意味〜off vocal ver.〜.flac
+    - 05-孤独な青空〜off vocal ver.〜.flac
+    - 06-ないものねだり〜off vocal ver.〜.flac
+  - ジコチューで行こう！
+    - 01-ジコチューで行こう！.flac
+    - 02-空扉.flac
+    - 03-三角の空き地.flac
+    - 04-ジコチューで行こう！ ~off vocal ver.~.flac
+    - 05-空扉~off vocal ver.~.flac
+    - 06-三角の空き地~off vocal ver.~.flac
+  - ジコチューで行こう！[Type B]
+    - 01-ジコチューで行こう！.flac
+    - 02-空扉.flac
+    - 03-自分じゃない感じ.flac
+    - 04-ジコチューで行こう！ 〜off vocal ver.〜.flac
+    - 05-空扉 〜off vocal ver.〜.flac
+    - 06-自分じゃない感じ 〜off vocal ver.〜.flac
+  - ジコチューで行こう！[Type C]
+    - 01-ジコチューで行こう！.flac
+    - 02-空扉.flac
+    - 03-心のモノローグ.flac
+    - 04-ジコチューで行こう！ 〜off vocal ver.〜.flac
+    - 05-空扉 〜off vocal ver.〜.flac
+    - 06-心のモノローグ 〜off vocal ver.〜.flac
+  - ジコチューで行こう！[Type D]
+    - 01-ジコチューで行こう！.flac
+    - 02-空扉.flac
+    - 03-地球が丸いなら.flac
+    - 04-ジコチューで行こう！〜off vocal ver.〜.flac
+    - 05-空扉 〜off vocal ver.〜.flac
+    - 06-地球が丸いなら 〜off vocal ver.〜.flac
+  - シンクロニシティ[Type A]
+    - 01-シンクロニシティ.flac
+    - 02-Against.flac
+    - 03-雲になればいい.flac
+    - 04-シンクロニシティ〜off vocal ver.〜.flac
+    - 05-Against〜off vocal ver.〜.flac
+    - 06-雲になればいい〜off vocal ver.〜.flac
+  - シンクロニシティ[Type B]
+    - 01-シンクロニシティ.flac
+    - 02-Against.flac
+    - 03-新しい世界.flac
+    - 04-シンクロニシティ〜off vocal ver.〜.flac
+    - 05-Against〜off vocal ver.〜.flac
+    - 06-新しい世界〜off vocal ver.〜.flac
+  - シンクロニシティ[Type C]
+    - 01-シンクロニシティ.flac
+    - 02-Against.flac
+    - 03-スカウトマン.flac
+    - 04-シンクロニシティ〜off vocal ver.〜.flac
+    - 05-Against〜off vocal ver.〜.flac
+    - 06-スカウトマン〜off vocal ver.〜.flac
+  - シンクロニシティ[Type D]
+    - 01-シンクロニシティ.flac
+    - 02-Against.flac
+    - 03-トキトキメキメキ.flac
+    - 04-シンクロニシティ〜off vocal ver.〜.flac
+    - 05-Against〜off vocal ver.〜.flac
+    - 06-トキトキメキメキ〜off vocal ver.〜.flac
+  - シンクロニシティ[通常盤]
+    - 01-シンクロニシティ.flac
+    - 02-Against.flac
+    - 03-言霊砲.flac
+    - 04-シンクロニシティ〜off vocal ver.〜.flac
+    - 05-Against〜off vocal ver.〜.flac
+    - 06-言霊砲〜off vocal ver.〜.flac
+  - それぞれの椅子[通常盤]
+    - 01-命は美しい.flac
+    - 02-太陽ノック.flac
+    - 03-今、話したい誰かがいる.flac
+    - 04-ハルジオンが咲く頃.flac
+    - 05-きっかけ.flac
+    - 06-太陽に口説かれて.flac
+    - 07-欲望のリインカーネーション.flac
+    - 08-悲しみの忘れ方.flac
+    - 09-空気感.flac
+    - 10-光合成希望.flac
+    - 11-無表情.flac
+    - 12-あらかじめ語られるロマンス.flac
+    - 13-隙間.flac
+    - 14-急斜面.flac
+    - 15-羽根の記憶.flac
+    - 16-乃木坂の詩.flac
+  - ハルジオンが咲く頃[Type A]
+    - 01-ハルジオンが咲く頃.flac
+    - 02-遥かなるブータン.flac
+    - 03-強がる蕾.flac
+    - 04-ハルジオンが咲く頃〜off vocal ver.〜.flac
+    - 05-遥かなるブータン〜off vocal ver.〜.flac
+    - 06-強がる蕾〜off vocal ver.〜.flac
+  - ハルジオンが咲く頃[Type B]
+    - 01-ハルジオンが咲く頃.flac
+    - 02-遥かなるブータン.flac
+    - 03-急斜面.flac
+    - 04-ハルジオンが咲く頃〜off vocal ver.〜.flac
+    - 05-遥かなるブータン〜off vocal ver.〜.flac
+    - 06-急斜面〜off vocal ver.〜.flac
+  - ハルジオンが咲く頃[通常盤]
+    - 01-ハルジオンが咲く頃.flac
+    - 02-遥かなるブータン.flac
+    - 03-憂鬱と風船ガム.flac
+    - 04-ハルジオンが咲く頃〜off vocal ver.〜.flac
+    - 05-遥かなるブータン〜off vocal ver.〜.flac
+    - 06-憂鬱と風船ガム〜off vocal ver.〜.flac
+  - バレッタ[通常盤]
+    - 01-バレッタ.flac
+    - 02-月の大きさ.flac
+    - 03-やさしさとは.flac
+    - 04-バレッタ (off vocal ver.).flac
+    - 05-月の大きさ (off vocal ver.).flac
+    - 06-やさしさとは (off vocal ver.).flac
+  - 今が思い出になるまで[Type A]
+    - 01-ありがちな恋愛.flac
+    - 02-逃げ水.flac
+    - 03-いつかできるから今日できる.flac
+    - 04-シンクロニシティ.flac
+    - 05-ジコチューで行こう！.flac
+    - 06-帰り道は遠回りしたくなる.flac
+    - 07-アンダー.flac
+    - 08-My rule.flac
+    - 09-新しい世界.flac
+    - 10-三角の空き地.flac
+    - 11-日常.flac
+    - 12-頬杖をついては眠れない.flac
+    - 13-ぼっち党.flac
+    - 14-僕の衝動.flac
+    - 15-スカウトマン.flac
+  - 今が思い出になるまで[Type B]
+    - 01-ありがちな恋愛.flac
+    - 02-逃げ水.flac
+    - 03-いつかできるから今日できる.flac
+    - 04-シンクロニシティ.flac
+    - 05-ジコチューで行こう！.flac
+    - 06-帰り道は遠回りしたくなる.flac
+    - 07-アンダー.flac
+    - 08-My rule.flac
+    - 09-新しい世界.flac
+    - 10-三角の空き地.flac
+    - 11-日常.flac
+    - 12-さゆりんご募集中.flac
+    - 13-ゴルゴンゾーラ.flac
+    - 14-トキトキメキメキ.flac
+    - 15-未来の答え.flac
+  - 今、話したい誰かがいる[Type A]
+    - 01-今、話したい誰かがいる.flac
+    - 02-嫉妬の権利.flac
+    - 03-ポピパッパパー.flac
+    - 04-今、話したい誰かがいる 〜off vocal ver.〜.flac
+    - 05-嫉妬の権利 〜off vocal ver.〜.flac
+    - 06-ポピパッパパー 〜off vocal ver.〜.flac
+  - 今、話したい誰かがいる[Type B]
+    - 01-今、話したい誰かがいる.flac
+    - 02-嫉妬の権利.flac
+    - 03-大人への近道.flac
+    - 04-今、話したい誰かがいる 〜off vocal ver.〜.flac
+    - 05-嫉妬の権利 〜off vocal ver.〜.flac
+    - 06-大人への近道 〜off vocal ver.〜.flac
+  - 今、話したい誰かがいる[Type C]
+    - 01-今、話したい誰かがいる.flac
+    - 02-嫉妬の権利.flac
+    - 03-悲しみの忘れ方.flac
+    - 04-今、話したい誰かがいる 〜off vocal ver.〜.flac
+    - 05-嫉妬の権利 〜off vocal ver.〜.flac
+    - 06-悲しみの忘れ方 〜off vocal ver.〜.flac
+  - 今、話したい誰かがいる[通常盤]
+    - 01-今、話したい誰かがいる.flac
+    - 02-嫉妬の権利.flac
+    - 03-隙間.flac
+    - 04-今、話したい誰かがいる 〜off vocal ver.〜.flac
+    - 05-嫉妬の権利 〜off vocal ver.〜.flac
+    - 06-隙間 〜off vocal ver.〜.flac
+  - 何度目の青空か？[Type A]
+    - 01-何度目の青空か？.flac
+    - 02-遠回りの愛情.flac
+    - 03-転がった鐘を鳴らせ！.flac
+    - 04-何度目の青空か？〜off vocal ver.〜.flac
+    - 05-遠回りの愛情〜off vocal ver.〜.flac
+    - 06-転がった鐘を鳴らせ！〜off vocal ver.〜.flac
+  - 何度目の青空か？[Type B]
+    - 01-何度目の青空か？.flac
+    - 02-遠回りの愛情.flac
+    - 03-私、起きる。.flac
+    - 04-何度目の青空か？〜off vocal ver.〜.flac
+    - 05-遠回りの愛情〜off vocal ver.〜.flac
+    - 06-私、起きる。〜off vocal ver.〜.flac
+  - 何度目の青空か？[Type C]
+    - 01-何度目の青空か？.flac
+    - 02-遠回りの愛情.flac
+    - 03-あの日 僕は咄嗟に嘘をついた.flac
+    - 04-何度目の青空か？〜off vocal ver.〜.flac
+    - 05-遠回りの愛情〜off vocal ver.〜.flac
+    - 06-あの日 僕は咄嗟に嘘をついた〜off vocal ver.〜.flac
+  - 何度目の青空か？[通常盤]
+    - 01-何度目の青空か？.flac
+    - 02-遠回りの愛情.flac
+    - 03-Tender days.flac
+    - 04-何度目の青空か？ 〜off vocal ver.〜.flac
+    - 05-遠回りの愛情 〜off vocal ver.〜.flac
+    - 06-Tender days 〜off vocal ver.〜.flac
+  - 制服のマネキン[通常盤]
+    - 01-制服のマネキン.flac
+    - 02-指望遠鏡.flac
+    - 03-渋谷ブルース.flac
+    - 04-制服のマネキン (off vocal ver.).flac
+    - 05-指望遠鏡 (off vocal ver.).flac
+    - 06-渋谷ブルース (off vocal ver.).flac
+  - 君の名は希望[Type C]
+    - 01-君の名は希望.flac
+    - 02-シャキイズム.flac
+    - 03-でこぴん.flac
+    - 04-君の名は希望 (off vocal ver.).flac
+    - 05-シャキイズム (off vocal ver.).flac
+    - 06-でこぴん (off vocal ver.).flac
+  - 君の名は希望[通常盤]
+    - 01-君の名は希望.flac
+    - 02-シャキイズム.flac
+    - 03-サイコキネシスの可能性.flac
+    - 04-君の名は希望 (off vocal ver.).flac
+    - 05-シャキイズム (off vocal ver.).flac
+    - 06-サイコキネシスの可能性 (off vocal ver.).flac
+  - 命は美しい[Type C]
+    - 01-命は美しい.flac
+    - 02-あらかじめ語られるロマンス.flac
+    - 03-君は僕と会わない方がよかったのかな.flac
+    - 04-命は美しい (off vocal ver.).flac
+    - 05-あらかじめ語られるロマンス (off vocal ver.).flac
+    - 06-君は僕と会わない方がよかったのかな (off vocal ver.).flac
+  - 命は美しい[通常盤]
+    - 01-命は美しい.flac
+    - 02-あらかじめ語られるロマンス.flac
+    - 03-ボーダー.flac
+    - 04-命は美しい (off vocal ver.).flac
+    - 05-あらかじめ語られるロマンス (off vocal ver.).flac
+    - 06-ボーダー (off vocal ver.).flac
+  - 夏のFree&Easy[Type A]
+    - 01-夏のFree&Easy.flac
+    - 02-何もできずにそばにいる.flac
+    - 03-その先の出口.flac
+    - 04-夏のFree&Easy (off vocal ver.).flac
+    - 05-何もできずにそばにいる (off vocal ver.).flac
+    - 06-その先の出口 (off vocal ver.).flac
+  - 夏のFree&Easy[Type C]
+    - 01-夏のFree&Easy.flac
+    - 02-何もできずにそばにいる.flac
+    - 03-無口なライオン.flac
+    - 04-夏のFree&Easy (off vocal ver.).flac
+    - 05-何もできずにそばにいる (off vocal ver.).flac
+    - 06-無口なライオン (off vocal ver.).flac
+  - 夏のFree&Easy[通常盤]
+    - 01-夏のFree&Easy.flac
+    - 02-何もできずにそばにいる.flac
+    - 03-僕が行かなきゃ誰が行くんだ_.flac
+    - 04-夏のFree&Easy (off vocal ver.).flac
+    - 05-何もできずにそばにいる (off vocal ver.).flac
+    - 06-僕が行かなきゃ誰が行くんだ_ (off vocal ver.).flac
+  - 太陽ノック[通常盤]
+    - 01-太陽ノック.flac
+    - 02-もう少しの夢.flac
+    - 03-制服を脱いでサヨナラを….flac
+    - 04-太陽ノック〜off vocal ver.〜.flac
+    - 05-もう少しの夢〜off vocal ver.〜.flac
+    - 06-制服を脱いでサヨナラを…〜off vocal ver.〜.flac
+  - 帰り道は遠回りしたくなる[Type A]
+    - 01-帰り道は遠回りしたくなる.flac
+    - 02-キャラバンは眠らない.flac
+    - 03-つづく.flac
+    - 04-帰り道は遠回りしたくなる -off vocal ver.-.flac
+    - 05-キャラバンは眠らない -off vocal ver.-.flac
+    - 06-つづく -off vocal ver.-.flac
+  - 帰り道は遠回りしたくなる[Type B]
+    - 01-帰り道は遠回りしたくなる.flac
+    - 02-キャラバンは眠らない.flac
+    - 03-日常.flac
+    - 04-帰り道は遠回りしたくなる -off vocal ver.-.flac
+    - 05-キャラバンは眠らない -off vocal ver.-.flac
+    - 06-日常 -off vocal ver.-.flac
+  - 帰り道は遠回りしたくなる[Type C]
+    - 01-帰り道は遠回りしたくなる.flac
+    - 02-キャラバンは眠らない.flac
+    - 03-告白の順番.flac
+    - 04-帰り道は遠回りしたくなる -off vocal ver.-.flac
+    - 05-キャラバンは眠らない -off vocal ver.-.flac
+    - 06-告白の順番 -off vocal ver.-.flac
+  - 帰り道は遠回りしたくなる[Type D]
+    - 01-帰り道は遠回りしたくなる.flac
+    - 02-キャラバンは眠らない.flac
+    - 03-ショパンの嘘つき.flac
+    - 04-帰り道は遠回りしたくなる -off vocal ver.-.flac
+    - 05-キャラバンは眠らない -off vocal ver.-.flac
+    - 06-ショパンの嘘つき -off vocal ver.-.flac
+  - 帰り道は遠回りしたくなる[通常盤]
+    - 01-帰り道は遠回りしたくなる.flac
+    - 02-キャラバンは眠らない.flac
+    - 03-知りたいこと.flac
+    - 04-帰り道は遠回りしたくなる -off vocal ver.-.flac
+    - 05-キャラバンは眠らない -off vocal ver.-.flac
+    - 06-知りたいこと -off vocal ver.-.flac
+  - 気づいたら片想い[通常盤]
+    - 01-気づいたら片想い.flac
+    - 02-ロマンスのスタート.flac
+    - 03-ダンケシェーン.flac
+    - 04-気づいたら片想い (off vocal ver.).flac
+    - 05-ロマンスのスタート (off vocal ver.).flac
+    - 06-ダンケシェーン (off vocal ver.).flac
+  - 生まれてから初めて見た夢[通常盤]
+    - 01-裸足でSummer.flac
+    - 02-サヨナラの意味.flac
+    - 03-インフルエンサー.flac
+    - 04-シークレットグラフィティー.flac
+    - 05-ブランコ.flac
+    - 06-風船は生きている.flac
+    - 07-スカイダイビング.flac
+    - 08-三番目の風.flac
+    - 09-流星ディスコティック.flac
+    - 10-忘却と美学.flac
+    - 11-２度目のキスから.flac
+    - 12-命の真実 ミュージカル「林檎売りとカメムシ」.flac
+    - 13-行くあてのない僕たち.flac
+    - 14-当たり障りのない話.flac
+  - 裸足でSummer[Type A]
+    - 01-裸足でSummer.flac
+    - 02-僕だけの光.flac
+    - 03-オフショアガール.flac
+    - 04-裸足でSummer 〜off vocal ver.〜.flac
+    - 05-僕だけの光 〜off vocal ver.〜.flac
+    - 06-オフショアガール 〜off vocal ver.〜.flac
+  - 裸足でSummer[Type B]
+    - 01-裸足でSummer.flac
+    - 02-僕だけの光.flac
+    - 03-命の真実 ミュージカル「林檎売りとカメムシ」.flac
+    - 04-裸足でSummer 〜off vocal ver.〜.flac
+    - 05-僕だけの光 〜off vocal ver.〜.flac
+    - 06-命の真実 ミュージカル「林檎売りとカメムシ」 〜off vocal ver.〜.flac
+  - 裸足でSummer[Type C]
+    - 01-裸足でSummer.flac
+    - 02-僕だけの光.flac
+    - 03-白米様.flac
+    - 04-裸足でSummer 〜off vocal ver.〜.flac
+    - 05-僕だけの光 〜off vocal ver.〜.flac
+    - 06-白米様 〜off vocal ver.〜.flac
+  - 裸足でSummer[Type D]
+    - 01-裸足でSummer.flac
+    - 02-僕だけの光.flac
+    - 03-シークレットグラフィティー.flac
+    - 04-裸足でSummer 〜off vocal ver.〜.flac
+    - 05-僕だけの光 〜off vocal ver.〜.flac
+    - 06-シークレットグラフィティー 〜off vocal ver.〜.flac
+  - 裸足でSummer[通常盤]
+    - 01-裸足でSummer.flac
+    - 02-僕だけの光.flac
+    - 03-行くあてのない僕たち.flac
+    - 04-裸足でSummer 〜off vocal ver.〜.flac
+    - 05-僕だけの光 〜off vocal ver.〜.flac
+    - 06-行くあてのない僕たち 〜off vocal ver.〜.flac
+  - 走れ！Bicycle[Type C]
+    - 01-走れ！Bicycle.flac
+    - 02-せっかちなかたつむり.flac
+    - 03-音が出ないギター.flac
+    - 04-走れ！Bicycle (off vocal ver.).flac
+    - 05-せっかちなかたつむり (off vocal ver.).flac
+    - 06-音が出ないギター (off vocal ver.).flac
+  - 走れ！Bicycle[通常盤]
+    - 01-走れ！Bicycle.flac
+    - 02-せっかちなかたつむり.flac
+    - 03-海流の島よ.flac
+    - 04-走れ！Bicycle (off vocal ver.).flac
+    - 05-せっかちなかたつむり (off vocal ver.).flac
+    - 06-海流の島よ (off vocal ver.).flac
+  - 逃げ水[Type A]
+    - 01-逃げ水.flac
+    - 02-女は一人じゃ眠れない.flac
+    - 03-ひと夏の長さより….flac
+    - 04-逃げ水 –off vocal ver.–.flac
+    - 05-女は一人じゃ眠れない –off vocal ver.–.flac
+    - 06-ひと夏の長さより… –off vocal ver.–.flac
+  - 逃げ水[Type B]
+    - 01-逃げ水.flac
+    - 02-女は一人じゃ眠れない.flac
+    - 03-アンダー.flac
+    - 04-逃げ水 –off vocal ver.–.flac
+    - 05-女は一人じゃ眠れない –off vocal ver.–.flac
+    - 06-アンダー –off vocal ver.–.flac
+  - 逃げ水[Type C]
+    - 01-逃げ水.flac
+    - 02-女は一人じゃ眠れない.flac
+    - 03-ライブ神.flac
+    - 04-逃げ水 –off vocal ver.–.flac
+    - 05-女は一人じゃ眠れない –off vocal ver.–.flac
+    - 06-ライブ神 –off vocal ver.–.flac
+  - 逃げ水[Type D]
+    - 01-逃げ水.flac
+    - 02-女は一人じゃ眠れない.flac
+    - 03-未来の答え.flac
+    - 04-逃げ水 –off vocal ver.–.flac
+    - 05-女は一人じゃ眠れない –off vocal ver.–.flac
+    - 06-未来の答え –off vocal ver.–.flac
+  - 逃げ水[通常盤]
+    - 01-逃げ水.flac
+    - 02-女は一人じゃ眠れない.flac
+    - 03-泣いたっていいじゃないか？.flac
+    - 04-逃げ水 –off vocal ver.–.flac
+    - 05-女は一人じゃ眠れない –off vocal ver.–.flac
+    - 06-泣いたっていいじゃないか？ –off vocal ver.–.flac
+  - 透明な色
+    - 01-OVERTURE.flac
+    - 02-ぐるぐるカーテン.flac
+    - 03-おいでシャンプー.flac
+    - 04-走れ！Bicycle.flac
+    - 05-制服のマネキン.flac
+    - 06-君の名は希望.flac
+    - 07-ガールズルール.flac
+    - 08-バレッタ.flac
+    - 09-気づいたら片想い.flac
+    - 10-夏のFree&Easy.flac
+    - 11-何度目の青空か？.flac
+    - 12-誰かは味方.flac
+    - 13-革命の馬.flac
+    - 14-僕がいる場所.flac
+    - 15-あなたのために弾きたい.flac
 - 伊藤美来
   - Plunderer
     - 01-Plunderer.flac
@@ -3729,8 +4407,8 @@
     - 08-オトナブルー (ハイパースクールRemix).flac
 - 新世紀エヴァンゲリオン
   - 残酷な天使のテーゼ・FLY ME TO THE MOON
-    - 01. 残酷な天使のテーゼ.flac
-    - 02. FLY ME TO THE MOON.flac
+    - 01- 残酷な天使のテーゼ.flac
+    - 02.-FLY ME TO THE MOON.flac
 - 早見沙織
   - やさしい希望
     - 01-やさしい希望.flac
@@ -3793,6 +4471,101 @@
     - 01-Bravery Naturally.flac
     - 02-ぶっ飛んでラニカイ.flac
     - 03-Around the bizarre world.flac
+- 欅坂46
+  - アンビバレント[Type A]
+    - 01-アンビバレント.flac
+    - 02-Student Dance.flac
+    - 03-I’m out.flac
+    - 04-アンビバレント -off vocal ver.-.flac
+    - 05-Student Dance -off vocal ver.-.flac
+    - 06-I’m out -off vocal ver.-.flac
+  - アンビバレント[Type B]
+    - 01-アンビバレント.flac
+    - 02-Student Dance.flac
+    - 03-ハッピーオーラ.flac
+    - 04-アンビバレント -off vocal ver.-.flac
+    - 05-Student Dance -off vocal ver.-.flac
+    - 06-ハッピーオーラ -off vocal ver.-.flac
+  - アンビバレント[Type C]
+    - 01-アンビバレント.flac
+    - 02-Student Dance.flac
+    - 03-302号室.flac
+    - 04-アンビバレント –off vocal ver.–.flac
+    - 05-Student Dance –off vocal ver.–.flac
+    - 06-302号室 –off vocal ver.–.flac
+  - アンビバレント[通常盤]
+    - 01-アンビバレント.flac
+    - 02-Student Dance.flac
+    - 03-日が昇るまで.flac
+    - 04-アンビバレント –off vocal ver.–.flac
+    - 05-Student Dance –off vocal ver.–.flac
+    - 06-日が昇るまで –off vocal ver.–.flac
+  - ガラスを割れ！[Type A]
+    - 01-ガラスを割れ!.flac
+    - 02-もう森へ帰ろうか_.flac
+    - 03-夜明けの孤独.flac
+    - 04-ガラスを割れ! off vocal ver..flac
+    - 05-もう森へ帰ろうか_ off vocal ver..flac
+    - 06-夜明けの孤独 off vocal ver..flac
+  - ガラスを割れ！[Type B]
+    - 01-ガラスを割れ!.flac
+    - 02-もう森へ帰ろうか_.flac
+    - 03-イマニミテイロ.flac
+    - 04-ガラスを割れ! off vocal ver..flac
+    - 05-もう森へ帰ろうか_ off vocal ver..flac
+    - 06-イマニミテイロ off vocal ver..flac
+  - ガラスを割れ！[Type C]
+    - 01-ガラスを割れ!.flac
+    - 02-もう森へ帰ろうか?.flac
+    - 03-ゼンマイ仕掛けの夢.flac
+    - 04-ガラスを割れ! off vocal ver..flac
+    - 05-もう森へ帰ろうか? off vocal ver..flac
+    - 06-ゼンマイ仕掛けの夢 off vocal ver..flac
+  - ガラスを割れ！[Type D]
+    - 01-ガラスを割れ!.flac
+    - 02-もう森へ帰ろうか?.flac
+    - 03-バスルームトラベル.flac
+    - 04-ガラスを割れ! off vocal ver..flac
+    - 05-もう森へ帰ろうか? off vocal ver..flac
+    - 06-バスルームトラベル off vocal ver..flac
+  - ガラスを割れ！[通常盤]
+    - 01-ガラスを割れ!.flac
+    - 02-もう森へ帰ろうか?.flac
+    - 03-半分の記憶.flac
+    - 04-ガラスを割れ! -off vocal ver.-.flac
+    - 05-もう森へ帰ろうか? -off vocal ver.-.flac
+    - 06-半分の記憶 -off vocal ver.-.flac
+  - 不協和音[通常盤]
+    - 01-不協和音.flac
+    - 02-W-KEYAKIZAKAの詩.flac
+    - 03-エキセントリック.flac
+    - 04-不協和音 (off-vocal).flac
+    - 05-W-KEYAKIZAKAの詩 (off-vocal).flac
+    - 06-エキセントリック (off-vocal).flac
+  - 真っ白なものは汚したくなる
+    - 01-Overture.flac
+    - 02-サイレントマジョリティー.flac
+    - 03-手を繋いで帰ろうか.flac
+    - 04-キミガイナイ.flac
+    - 05-世界には愛しかない.flac
+    - 06-語るなら未来を….flac
+    - 07-ひらがなけやき.flac
+    - 08-二人セゾン.flac
+    - 09-制服と太陽.flac
+    - 10-誰よりも高く跳べ！.flac
+    - 11-大人は信じてくれない.flac
+    - 12-不協和音.flac
+    - 13-僕たちは付き合っている.flac
+    - 14-エキセントリック.flac
+    - 15-W-KEYAKIZAKAの詩.flac
+    - 16-月曜日の朝、スカートを切られた.flac
+  - 風に吹かれても[通常盤]
+    - 01-風に吹かれても.flac
+    - 02-それでも歩いてる.flac
+    - 03-再生する細胞.flac
+    - 04-風に吹かれても off vocal ver..flac
+    - 05-それでも歩いてる off vocal ver..flac
+    - 06-再生する細胞 off vocal ver..flac
 - 水瀬いのり
   - BLUE COMPASS
     - 01-ハートノイロ.flac
