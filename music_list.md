@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/10/09 01:34
+###### updated on 2024/10/13 09:38
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -3194,7 +3194,7 @@
     - 10-半分の記憶.flac
     - 11-期待していない自分.flac
     - 12-三輪車に乗りたい.flac
-    - 13-こんな整列を誰がさせるのか?.flac
+    - 13-こんな整列を誰がさせるのか_.flac
     - 14-居心地悪く、大人になった.flac
     - 15-割れないシャボン玉.flac
     - 16-ひらがなで恋したい.flac
@@ -3231,6 +3231,22 @@
     - 12-アノニマス.flac
     - 13-夏.flac
     - 14-birthday Song.flac
+  - め
+    - 01-夜明けの詩.flac
+    - 02-ミカヅキ.flac
+    - 03-平行線.flac
+    - 04-アノニマス.flac
+    - 05-フラレガイガール.flac
+    - 06-それは小さな光のような.flac
+    - 07-birthday song.flac
+    - 08-航海の唄.flac
+    - 09-オッドアイ.flac
+    - 10-蜂と見世物.flac
+    - 11-るーららるーらーるららるーらー.flac
+    - 12-月と花束.flac
+    - 13-来世で会おう.flac
+    - 14-レイメイ.flac
+    - 15-十億年.flac
   - 酸欠少女
     - 01-酸欠少女.flac
     - 02-花の塔.flac
@@ -3539,10 +3555,10 @@
   - Sing Out![Type B]
     - 01-Sing Out!.flac
     - 02-滑走路.flac
-    - 03-Am I Loving?.flac
+    - 03-Am I Loving？.flac
     - 04-Sing Out! -off vocal ver.-.flac
     - 05-滑走路 -off vocal ver.-.flac
-    - 06-Am I Loving? -off vocal ver.-.flac
+    - 06-Am I Loving？ -off vocal ver.-.flac
   - Sing Out![Type C]
     - 01-Sing Out!.flac
     - 02-滑走路.flac
@@ -4516,24 +4532,24 @@
     - 06-イマニミテイロ off vocal ver..flac
   - ガラスを割れ！[Type C]
     - 01-ガラスを割れ!.flac
-    - 02-もう森へ帰ろうか?.flac
+    - 02-もう森へ帰ろうか_.flac
     - 03-ゼンマイ仕掛けの夢.flac
     - 04-ガラスを割れ! off vocal ver..flac
-    - 05-もう森へ帰ろうか? off vocal ver..flac
+    - 05-もう森へ帰ろうか_ off vocal ver..flac
     - 06-ゼンマイ仕掛けの夢 off vocal ver..flac
   - ガラスを割れ！[Type D]
     - 01-ガラスを割れ!.flac
-    - 02-もう森へ帰ろうか?.flac
+    - 02-もう森へ帰ろうか_.flac
     - 03-バスルームトラベル.flac
     - 04-ガラスを割れ! off vocal ver..flac
-    - 05-もう森へ帰ろうか? off vocal ver..flac
+    - 05-もう森へ帰ろうか_ off vocal ver..flac
     - 06-バスルームトラベル off vocal ver..flac
   - ガラスを割れ！[通常盤]
     - 01-ガラスを割れ!.flac
-    - 02-もう森へ帰ろうか?.flac
+    - 02-もう森へ帰ろうか_.flac
     - 03-半分の記憶.flac
     - 04-ガラスを割れ! -off vocal ver.-.flac
-    - 05-もう森へ帰ろうか? -off vocal ver.-.flac
+    - 05-もう森へ帰ろうか_ -off vocal ver.-.flac
     - 06-半分の記憶 -off vocal ver.-.flac
   - 不協和音[通常盤]
     - 01-不協和音.flac
