@@ -14,7 +14,7 @@ def main():
     output = Popen(["tree", dir_pth, "-P", "*.flac", "--noreport"], stdout=PIPE).communicate()[0].decode("utf-8")
     # print(output.decode("utf-8"))
     output = "\n"+output[output.find('\n')+1:]
-    output = output.replace('    ','  ').replace("│   ", "  ").replace("├──", "-").replace("└──", "-")
+    output = output.replace('    ','  ').replace("│   ", "  ").replace("├──", "-").replace("└──", "-").replace("*", r"\*")
     with open("music_list.md", 'w') as f:
         f.write(header)
         f.write(output)
