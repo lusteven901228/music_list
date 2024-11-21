@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/11/13 00:30
+###### updated on 2024/11/22 05:10
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -782,30 +782,30 @@
     - 13-春はゆく.flac
     - 14-Walpurgis.flac
   - 星の消えた夜に [Disc 1]
-    - 01-Run Riot.flac
-    - 02-Work it out.flac
-    - 03-Mine.flac
-    - 04-Ophelia.flac
-    - 05-スピカ.flac
-    - 06-夏草に君を想う.flac
-    - 07-tone.flac
-    - 08-悲しみの向こう側.flac
-    - 09-Blind to you.flac
-    - 10-my sweetest one.flac
-    - 11-今日から思い出.flac
-    - 12-Ash flame.flac
-    - 13-Daisy.flac
-    - 14-Even Heaven.flac
-    - 15-星の消えた夜に.flac
+    - 1-01-Run Riot.flac
+    - 1-02-Work it out.flac
+    - 1-03-Mine.flac
+    - 1-04-Ophelia.flac
+    - 1-05-スピカ.flac
+    - 1-06-夏草に君を想う.flac
+    - 1-07-tone.flac
+    - 1-08-悲しみの向こう側.flac
+    - 1-09-Blind to you.flac
+    - 1-10-my sweetest one.flac
+    - 1-11-今日から思い出.flac
+    - 1-12-Ash flame.flac
+    - 1-13-Daisy.flac
+    - 1-14-Even Heaven.flac
+    - 1-15-星の消えた夜に.flac
   - 星の消えた夜に [Disc 2]
-    - 01-ONE AND LAST.flac
-    - 02-トリル -starless night ver.-.flac
-    - 03-グレースノート.flac
-    - 04-星の消えた夜に -rit. ver.-.flac
-    - 05-セプテンバーさん.flac
-    - 06-Raining.flac
-    - 07-糸.flac
-    - 08-花束のかわりにメロディーを.flac
+    - 2-01-ONE AND LAST.flac
+    - 2-02-トリル -starless night ver.-.flac
+    - 2-03-グレースノート.flac
+    - 2-05-セプテンバーさん.flac
+    - 2-06-Raining.flac
+    - 2-07-糸.flac
+    - 2-08-花束のかわりにメロディーを.flac
+    - 2-15-星の消えた夜に -rit. ver.-.flac
 - AKB48
   - AKB48と過ごす秘密のクリスマス
     - 01-小嶋陽菜.flac
@@ -2217,6 +2217,185 @@
     - 02-ロストロマンス.flac
     - 03-My Friends Forever.flac
     - 04-炎 -Instrumental-.flac
+- =LOVE
+  - CAMEO[Type A]
+    - 1-01-CAMEO.flac
+    - 1-02-「君と私の歌」.flac
+    - 1-03-CAMEO (instrumental).flac
+    - 1-04-「君と私の歌」 (instrumental).flac
+  - CAMEO[Type B]
+    - 1-01-CAMEO.flac
+    - 1-02-My Voice Is For You.flac
+    - 1-03-CAMEO (instrumental).flac
+    - 1-04-My Voice Is For You (instrumental).flac
+  - CAMEO[Type C]
+    - 1-01-CAMEO.flac
+    - 1-02-「君と僕の歌」.flac
+    - 1-03-CAMEO (instrumental).flac
+    - 1-04-「君と僕の歌」 (instrumental).flac
+  - CAMEO[通常盤]
+    - 01-CAMEO.flac
+    - 02-「君と私の歌」.flac
+    - 03-My Voice Is For You.flac
+    - 04-「君と僕の歌」.flac
+    - 05-CAMEO (instrumental).flac
+    - 06-「君と私の歌」 (instrumental).flac
+    - 07-My Voice Is For You (instrumental).flac
+    - 08-「君と僕の歌」 (instrumental).flac
+  - =LOVE[Type A]
+    - 1-01-=LOVE.flac
+    - 1-02-記憶のどこかで.flac
+    - 1-03-=LOVE (instrumental).flac
+    - 1-04-記憶のどこかで (instrumental).flac
+  - =LOVE[Type B]
+    - 1-01-=LOVE.flac
+    - 1-02-スタート！.flac
+    - 1-03-=LOVE (instrumental).flac
+    - 1-04-スタート！ (instrumental).flac
+  - The 5th[Type A]
+    - 01-The 5th.flac
+    - 02-お姫様にしてよ！.flac
+    - 03-The 5th (instrumental).flac
+    - 04-お姫様にしてよ！(instrumental).flac
+  - The 5th[Type B]
+    - 01-The 5th.flac
+    - 02-Poison Girl.flac
+    - 03-The 5th (instrumental).flac
+    - 04-Poison Girl (instrumental).flac
+  - The 5th[Type C]
+    - 1-01-The 5th.flac
+    - 1-02-BPM170の君へ.flac
+    - 1-03-The 5th (instrumental).flac
+    - 1-04-BPM170の君へ(instrumental).flac
+  - Want you! Want you![Type A]
+    - 1-01-Want you! Want you!.flac
+    - 1-02-今、この船に乗れ！.flac
+    - 1-03-Want you! Want you! (instrumental).flac
+    - 1-04-今、この船に乗れ！ (instrumental).flac
+  - Want you! Want you![Type B]
+    - 1-01-Want you! Want you!.flac
+    - 1-02-アイカツハッピーエンド.flac
+    - 1-03-Want you! Want you! (instrumental).flac
+    - 1-04-アイカツハッピーエンド(instrumental).flac
+  - あの子コンプレックス[Type A]
+    - 1-01-あの子コンプレックス.flac
+    - 1-02-笑顔のレシピ.flac
+    - 1-03-あの子コンプレックス -Instrumental-.flac
+    - 1-04-笑顔のレシピ -Instrumental-.flac
+  - あの子コンプレックス[Type B]
+    - 1-01-あの子コンプレックス.flac
+    - 1-02-知らんけど.flac
+    - 1-03-あの子コンプレックス -Instrumental-.flac
+    - 1-04-知らんけど -Instrumental-.flac
+  - あの子コンプレックス[Type C]
+    - 1-01-あの子コンプレックス.flac
+    - 1-02-僕のヒロイン.flac
+    - 1-03-あの子コンプレックス -Instrumental-.flac
+    - 1-04-僕のヒロイン -Instrumental-.flac
+  - あの子コンプレックス[通常盤]
+    - 01-あの子コンプレックス.flac
+    - 02-笑顔のレシピ.flac
+    - 03-知らんけど.flac
+    - 04-僕のヒロイン.flac
+    - 05-あの子コンプレックス -Instrumental-.flac
+    - 06-笑顔のレシピ -Instrumental-.flac
+    - 07-知らんけど -Instrumental-.flac
+    - 08-僕のヒロイン -Instrumental-.flac
+  - ズルいよ ズルいね[Type A]
+    - 1-01-ズルいよ ズルいね.flac
+    - 1-02-Sweetest girl.flac
+    - 1-03-ズルいよ ズルいね (instrumental).flac
+    - 1-04-Sweetest girl (instrumental).flac
+  - ズルいよ ズルいね[Type B]
+    - 1-01-ズルいよ ズルいね.flac
+    - 1-02-推しのいる世界.flac
+    - 1-03-ズルいよ ズルいね (instrumental).flac
+    - 1-04-推しのいる世界 (instrumental).flac
+  - ズルいよ ズルいね[Type C]
+    - 1-01-ズルいよ ズルいね.flac
+    - 1-02-「君の音だったんだ」.flac
+    - 1-03-ズルいよ ズルいね (instrumental).flac
+    - 1-04-「君の音だったんだ」 (instrumental).flac
+  - 僕らの制服クリスマス[Type A]
+    - 1-01-僕らの制服クリスマス.flac
+    - 1-02-ようこそ！イコラブ沼.flac
+    - 1-03-僕らの制服クリスマス (instrumental).flac
+    - 1-04-ようこそ！イコラブ沼 (instrumental).flac
+  - 僕らの制服クリスマス[Type B]
+    - 1-01-僕らの制服クリスマス.flac
+    - 1-02-届いてLOVE YOU♡.flac
+    - 1-03-僕らの制服クリスマス (instrumental).flac
+    - 1-04-届いてLOVE YOU♡ (instrumental).flac
+  - 全部、内緒。[Type A]
+    - 1-01-Overture.flac
+    - 1-02-桜の咲く音がした.flac
+    - 1-03-探せ ダイヤモンドリリー.flac
+    - 1-04-Oh!Darling.flac
+    - 1-05-青春“サブリミナル”.flac
+    - 1-06-セノビーインラブ.flac
+    - 1-07-CAMEO.flac
+    - 1-08-手遅れcaution.flac
+    - 1-09-ズルいよ ズルいね.flac
+    - 1-10-現役アイドルちゅ〜.flac
+    - 1-11-24_7.flac
+    - 1-12-お姉さんじゃダメですか？.flac
+    - 1-13-Want you!Want you!.flac
+    - 1-14-cinema.flac
+    - 1-15-僕らの制服クリスマス.flac
+    - 1-16-=LOVE.flac
+  - 全部、内緒。[Type B]
+    - 1-01-Overture.flac
+    - 1-02-桜の咲く音がした.flac
+    - 1-03-探せ ダイヤモンドリリー.flac
+    - 1-04-Oh!Darling.flac
+    - 1-05-青春“サブリミナル”.flac
+    - 1-06-セノビーインラブ.flac
+    - 1-07-CAMEO.flac
+    - 1-08-手遅れcaution.flac
+    - 1-09-ズルいよ ズルいね.flac
+    - 1-10-拝啓 貴方様.flac
+    - 1-11-24_7.flac
+    - 1-12-お姉さんじゃダメですか？.flac
+    - 1-13-Want you!Want you!.flac
+    - 1-14-cinema.flac
+    - 1-15-僕らの制服クリスマス.flac
+    - 1-16-=LOVE.flac
+  - 全部、内緒。[Type C]
+    - 01-Overture.flac
+    - 02-桜の咲く音がした.flac
+    - 03-探せ ダイヤモンドリリー.flac
+    - 04-Oh!Darling.flac
+    - 05-青春“サブリミナル”.flac
+    - 06-セノビーインラブ.flac
+    - 07-CAMEO.flac
+    - 08-手遅れcaution.flac
+    - 09-ズルいよ ズルいね.flac
+    - 10-24_7.flac
+    - 11-お姉さんじゃダメですか？.flac
+    - 12-Want you!Want you!.flac
+    - 13-cinema.flac
+    - 14-僕らの制服クリスマス.flac
+    - 15-=LOVE.flac
+  - 手遅れcaution[Type A]
+    - 1-01-手遅れcaution.flac
+    - 1-02-「部活中に目が合うなって思ってたんだ」.flac
+    - 1-03-手遅れcaution (instrumental).flac
+    - 1-04-「部活中に目が合うなって思ってたんだ」 (instrumental).flac
+  - 手遅れcaution[Type B]
+    - 1-01-手遅れcaution.flac
+    - 1-02-樹愛羅、助けに来たぞ.flac
+    - 1-03-手遅れcaution (instrumental).flac
+    - 1-04-樹愛羅、助けに来たぞ (instrumental).flac
+  - 探せ ダイヤモンドリリー[Type A]
+    - 1-01-探せ ダイヤモンドリリー.flac
+    - 1-02-いらない ツインテール.flac
+    - 1-03-探せ ダイヤモンドリリー (instrumental).flac
+    - 1-04-いらない ツインテール (instrumental).flac
+  - 探せ ダイヤモンドリリー[Type B]
+    - 1-01-探せ ダイヤモンドリリー.flac
+    - 1-02-虹の素.flac
+    - 1-03-探せ ダイヤモンドリリー (instrumental).flac
+    - 1-04-虹の素 (instrumental).flac
 - Machico
   - STAY FREE
     - 01-STAY FREE.flac
@@ -4202,6 +4381,27 @@
     - 04-ぐるぐるカーテン (off vocal ver.).flac
     - 05-左胸の勇気 (off vocal ver.).flac
     - 06-白い雲にのって (off vocal ver.).flac
+  - ここにはないもの[Type A]
+    - 1-01-ここにはないもの.flac
+    - 1-02-悪い成分.flac
+    - 1-03-これから.flac
+    - 1-04-ここにはないもの -off vocal ver.-.flac
+    - 1-05-悪い成分 -off vocal ver.-.flac
+    - 1-06-これから -off vocal ver.-.flac
+  - ここにはないもの[Type B]
+    - 1-01-ここにはないもの.flac
+    - 1-02-悪い成分.flac
+    - 1-03-銭湯ラプソディー.flac
+    - 1-04-ここにはないもの -off vocal ver.-.flac
+    - 1-05-悪い成分 -off vocal ver.-.flac
+    - 1-06-銭湯ラプソディー -off vocal ver.-.flac
+  - ここにはないもの[Type C]
+    - 1-01-ここにはないもの.flac
+    - 1-02-悪い成分.flac
+    - 1-03-アトノマツリ.flac
+    - 1-04-ここにはないもの -off vocal ver.-.flac
+    - 1-05-悪い成分 -off vocal ver.-.flac
+    - 1-06-アトノマツリ -off vocal ver.-.flac
   - サヨナラの意味[Type A]
     - 1-01-サヨナラの意味.flac
     - 1-02-孤独な青空.flac
@@ -5467,7 +5667,7 @@
     - 03-Innocent Notes (TV size Ver.).flac
     - 04-Innocent Notes (Instrumental).flac
     - 05-年中・愛は・無休 (Instrumental).flac
-  - Little\*Lion\*Heart
+  - Little_Lion_Heart
     - 01-Little_Lion_Heart.flac
     - 02-キミイロ モノローグ.flac
     - 03-Little_Lion_Heart (Instrumental).flac
