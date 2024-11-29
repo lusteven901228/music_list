@@ -1,5 +1,5 @@
 # Music List
-###### updated on 2024/11/22 05:10
+###### updated on 2024/11/29 09:13
 
 - 웬디
   - Like Water- The 1st Mini Album
@@ -101,6 +101,12 @@
     - 04-Vanilla Sugar Killer.flac
     - 05-Overdrive.flac
     - 06-So Special.flac
+  - VOYAGE
+    - 01-Shhh!.flac
+    - 02-Cliché.flac
+    - 03-Full Moon.flac
+    - 04-Hypnotize.flac
+    - 05-Love & Tears.flac
 - 전소연
   - Windy
     - 01-삠삠 (BEAM BEAM).flac
@@ -124,12 +130,6 @@
     - 04-종이달 Paper Moon.flac
     - 05-Cry.flac
     - 06-이 비 This Rain.flac
-- 엔믹스
-  - Ad Mare [Single]
-    - 01-占 (TANK).flac
-    - 02-O.O.flac
-    - 03-占 (TANK) (inst.).flac
-    - 04-O.O (inst.).flac
 - 아이유
   - 조각집
     - 01-드라마 (Drama).flac
@@ -1863,6 +1863,11 @@
     - 07-LIAR.flac
     - 08-MY BAG.flac
     - 09-TOMBOY.flac
+  - I SWAY
+    - 01-클락션 (Klaxon).flac
+    - 02-Last Forever.flac
+    - 03-Bloom.flac
+    - 04-Neverland.flac
   - I Trust
     - 01-Oh my god.flac
     - 02-사랑해.flac
@@ -2483,6 +2488,19 @@
     - 02-Right Now.flac
     - 03-Supernatural (instrumental).flac
     - 04-Right Now (instrumental).flac
+- NMIXX
+  - Ad Mare [Single]
+    - 01-占 (TANK).flac
+    - 02-O.O.flac
+    - 03-占 (TANK) (inst.).flac
+    - 04-O.O (inst.).flac
+  - Fe3O4_ STICK OUT
+    - 01-별별별 (See that_).flac
+    - 02-SICKUHH.flac
+    - 03-Red light sign, but we go.flac
+    - 04-BEAT BEAT.flac
+    - 05-Moving On.flac
+    - 06-Love Is Lonely.flac
 - Nornis
   - salvia
     - 01-salvia.flac
@@ -2662,6 +2680,15 @@
     - 07-한 발짝 두 발짝.flac
     - 08-LIAR LIAR (Chinese ver.).flac
 - QWER
+  - Algorithm’s Blossom
+    - 01-INTRO.flac
+    - 02-가짜 아이돌.flac
+    - 03-내 이름 맑음.flac
+    - 04-사랑하자.flac
+    - 05-달리기.flac
+    - 06-안녕, 나의 슬픔.flac
+    - 07-메아리.flac
+    - 08-OUTRO.flac
   - Harmony From Discord
     - 01-별의 하모니.flac
     - 02-Discord.flac
@@ -3567,6 +3594,7 @@
     - 17-DYE.flac
     - 18-Genesis.flac
     - 19-右肩の蝶 -Ver.3.0.1-.flac
+- VIVIZ
 - Vocaloid
   - Digital Trax presents VOCALO★POPS BEST feat. 初音ミク
     - 01-サイハテ.flac
@@ -3588,7 +3616,11 @@
     - 1-01-愛は薬.flac
     - 1-02-リバイバル.flac
     - 1-03-君だ.flac
-- Yena
+- YENA
+  - 네모네모
+    - 01-네모네모.flac
+    - 02-설탕.flac
+    - 03-그건 사랑이었다고.flac
   - DNA
     - 01-DNA.flac
     - 02-SMARTPHONE -JAPANESE VER.-.flac
@@ -3880,17 +3912,17 @@
     - 14-レイメイ.flac
     - 15-十億年.flac
   - 酸欠少女
-    - 01-さユり - 酸欠少女.flac
-    - 02-さユり - 花の塔.flac
-    - 03-さユり - 航海の唄.flac
-    - 04-さユり - DAWN DANCE.flac
-    - 05-さユり - 世界の秘密.flac
-    - 06-さユり - 葵橋.flac
-    - 07-さユり - 月と花束.flac
-    - 08-さユり - かみさま.flac
-    - 09-さユり - summer bug.flac
-    - 10-さユり; MY FIRST STORY - レイメイ.flac
-    - 11-さユり - ねじこ.flac
+    - 01-酸欠少女.flac
+    - 02-花の塔.flac
+    - 03-航海の唄.flac
+    - 04-DAWN DANCE.flac
+    - 05-世界の秘密.flac
+    - 06-葵橋.flac
+    - 07-月と花束.flac
+    - 08-かみさま.flac
+    - 09-summer bug.flac
+    - 10-レイメイ.flac
+    - 11-ねじこ.flac
 - しぐれうい
   - まだ雨はやまない
     - 01-シンカケイスケッチ.flac
@@ -5488,6 +5520,69 @@
     - 1-04-シンクロときめき (instrumental).flac
     - 1-05-三つ編みの君へ (instrumental).flac
     - 1-06-マユユロイド (instrumental).flac
+- 牛尾憲輔
+  - TVアニメ「僕の心のヤバイやつ」オリジナルサウンドトラック
+    - 1-01-†countdown to death†.flac
+    - 1-02-Ichikawa fantasize.flac
+    - 1-03-Ichikawa irritated.flac
+    - 1-04-Yamada’s theme.flac
+    - 1-05-our conversation.flac
+    - 1-06-feeling conscious.flac
+    - 1-07-thinking.flac
+    - 1-08-the shine.flac
+    - 1-09-the dangers in my heart.flac
+    - 1-10-sidekick.flac
+    - 1-11-upset!.flac
+    - 1-12-happy days.flac
+    - 1-13-hey,boys.flac
+    - 1-14-hey,girls.flac
+    - 1-15-explanation.flac
+    - 1-16-senpai!.flac
+    - 1-17-in the classroom.flac
+    - 1-18-snuggling up.flac
+    - 1-19-sadness.flac
+    - 1-20-what should I do_.flac
+    - 1-21-it begins.flac
+    - 1-22-go straight.flac
+    - 1-23-grow apart_.flac
+    - 1-24-happiness.flac
+    - 1-25-from the bottom of my heart.flac
+    - 1-26-hearts get closer.flac
+    - 1-27-gentle heart.flac
+    - 1-28-restless heart.flac
+    - 1-29-bad vibes.flac
+    - 1-30-milk tea.flac
+    - 1-31-sweet devil.flac
+    - 1-32-missing.flac
+    - 1-33-a date for two.flac
+    - 1-34-memories.flac
+    - 1-35-our gradation.flac
+    - 1-36-sigh….flac
+    - 1-37-imaginary Kyo.flac
+    - 1-38-gentle ending.flac
+    - 2-01-Kana’s theme.flac
+    - 2-02-dokidoki.flac
+    - 2-03-true.flac
+    - 2-04-two of us.flac
+    - 2-05-I will come to you.flac
+    - 2-06-damn it!.flac
+    - 2-07-heart beating_fast.flac
+    - 2-08-anxiety and relief.flac
+    - 2-09-desperate schoolboys.flac
+    - 2-10-jealous.flac
+    - 2-11-farewell address.flac
+    - 2-12-our emotions.flac
+    - 2-13-a thing.flac
+    - 2-14-desperate schoolboys ii.flac
+    - 2-15-shoot.flac
+    - 2-16-seriously troubled.flac
+    - 2-17-come running.flac
+    - 2-18-suspicious relationships.flac
+    - 2-19-conflict.flac
+    - 2-20-true feeling.flac
+    - 2-21-can’t stop looking at you.flac
+    - 2-22-I think dearly of you.flac
+    - 2-23-the dangers in our hearts.flac
 - 田所あずさ
   - RESOLVE [アーティスト盤]
     - 01-RESOLVE.flac
